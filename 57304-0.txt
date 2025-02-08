@@ -1,42 +1,7 @@
-The Project Gutenberg EBook of The Philippine Islands, 1493-1898, Volume
-51, 1801-1840, by Various
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-Title: The Philippine Islands, 1493-1898, Volume 51, 1801-1840
-       Explorations by early navigators, descriptions of the
-       islands and their peoples, their history and records of
-       the catholic missions, as related in contemporaneous books
-       and manuscripts, showing the political, economic, commercial
-       and religious conditions of those islands from their
-       earliest relations with European nations to the close of
-       the nineteenth century
-
-Author: Various
-
-Editor: Emma Helen Blair
-        James Alexander Robertson
-        Edward Gaylord Bourne
-
-Release Date: June 10, 2018 [EBook #57304]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK PHILIPPINE ISLANDS, VOLUME 51 ***
+*** START OF THE PROJECT GUTENBERG EBOOK 57304 ***
 
 
 
-
-Produced by Jeroen Hellingman and the Online Distributed
-Proofreading Team at http://www.pgdp.net/ for Project
-Gutenberg.
 
 
 
@@ -126,7 +91,7 @@ ILLUSTRATIONS
     facsimile from original MS. map (in colors), in Archivo
     general de Indias, Sevilla                                      161
     Plan showing outer works of Manila, drawn by the engineer
-    Tom·s Sanz; photographic facsimile from original MS. map
+    Tom√°s Sanz; photographic facsimile from original MS. map
     (in colors), in Archivo general de Indias, Sevilla              193
 
 
@@ -165,10 +130,10 @@ news of the war between England and Spain, and the consequent danger
 to Manila. At his death (August 8, 1806) an officer named Folgueras
 becomes governor ad interim; he strengthens the fortifications of
 Manila, and quells a revolt in Ilocos. He is succeeded (March 4,
-1810) by the new proprietary governor, Gonz·lez Aguilar, who promotes
+1810) by the new proprietary governor, Gonz√°lez Aguilar, who promotes
 cattle-raising in the provinces, quells another insurrection in Ilocos,
 publishes the first newspaper in Filipinas, and proclaims the Spanish
-constitution of 1812. In 1813 arrives his successor, JosÈ de Gardoqui,
+constitution of 1812. In 1813 arrives his successor, Jos√© de Gardoqui,
 whose rule is by no means easy; for he is opposed by corrupt royal
 officials, and has to encounter revolts among the Indians caused by
 the publication of the new Spanish constitution--disturbances which
@@ -182,17 +147,17 @@ occurs the first epidemic of cholera morbus, which is unfortunately
 accompanied by a massacre of the foreigners in Manila, executed by
 the credulous Indians who have been persuaded by malicious persons
 that the pest was caused by the foreigners having poisoned the
-waters. MartÌnez, who becomes governor on October 30, 1822, brings
+waters. Mart√≠nez, who becomes governor on October 30, 1822, brings
 over a number of Spanish officers for the Filipinas regiments; this
 creates jealousy among the officers who had come from America, which
 results in a mutiny among them and part of the troops in Manila (June,
 1823); this is put down, and the leaders are shot. An expedition is
 sent against the Moros (1824), which lays waste their shores.
 
-On October 14, 1825, MartÌnez is replaced by Mariano Ricafort as
+On October 14, 1825, Mart√≠nez is replaced by Mariano Ricafort as
 governor; the latter is also made chief of the treasury. The parish
 curacies are, by a royal decree in 1826, restored to the regular
-orders. In 1827 the naval bureau is reÎstablished at Manila, under
+orders. In 1827 the naval bureau is re√´stablished at Manila, under
 Pascual Enrile, who succeeds Ricafort as governor in 1830. (Both these
 men were among the most illustrious rulers of Filipinas, on account of
 their ability, uprightness, and zeal for the public welfare.) In 1828
@@ -215,12 +180,12 @@ parish priests. The political disturbances in Spain at this time are
 reflected in Filipinas, and a strong Carlist faction oppose Governor
 Camba (who assumes that office in August, 1837), and finally procure
 his recall to Spain, little more than a year afterward. Under his
-successor, Lardiz·bal, the status of the Chinese in the islands is
+successor, Lardiz√°bal, the status of the Chinese in the islands is
 determined, provision is made for the official censorship of books
 brought to Filipinas, a school of commerce is established at Manila
 and various important changes are made in financial and municipal
-administration. In February, 1841, Lardiz·bal is succeeded by Marcelino
-de Or·a.
+administration. In February, 1841, Lardiz√°bal is succeeded by Marcelino
+de Or√°a.
 
 In 1828 was published at Calcutta an interesting book entitled, Remarks
 on the Phillippine Islands, 1819 to 1822, "by an Englishman"--as
@@ -266,7 +231,7 @@ describes the condition of Philippine commerce, with statistics of
 1818; and the difficulties under which it labors--especially the
 insecurity of property and contracts, the fraudulent dealings of the
 Chinese merchants; and the neglect of government to prevent smuggling
-or to make suitable provision for reÎxportation of goods--which have
+or to make suitable provision for re√´xportation of goods--which have
 prevented Manila from being one of the great centers of Oriental trade.
 
 The second part of these "Remarks" is devoted to Manila; a description
@@ -309,7 +274,7 @@ in which the government and the Spanish population of Manila might
 be safe in any revolution or other dangerous emergency; Manila is
 not sufficiently fortified for such a purpose. The piracies of the
 Moros are ruining the islands; the only way to check them is to
-conquer JolÛ and Mindanao with a powerful expedition, and colonize
+conquer Jol√≥ and Mindanao with a powerful expedition, and colonize
 them from the Visayas. The Indian villages are often much too large
 to be properly directed in either spiritual or civil matters, and
 should be made smaller, with stricter police patrol. Measures should
@@ -335,7 +300,7 @@ is pressing necessity for better means of communication with the
 mother-country, which can best be promoted by encouraging her commerce
 with Filipinas. The governors and intendants should be obliged to
 furnish the reports and information about the country which the laws
-require; and there should be more coˆperation between the governor
+require; and there should be more co√∂peration between the governor
 and the Audiencia. Private persons of means should be encouraged and
 aided to undertake the enterprises which the country needs. Various
 specified abuses in the administration of justice should be corrected;
@@ -354,7 +319,7 @@ schedule, carefully classified. The inter-island trade is exclusively
 in the hands of the alcaldes-mayor and the rich Chinese and mestizos,
 who should therefore pay a moderate tax on that lucrative commerce. A
 colonial currency is urgently needed. An account of the management
-of the obras pÌas should be demanded by the government, and those
+of the obras p√≠as should be demanded by the government, and those
 funds should be employed in promoting agriculture and industry in the
 islands. The shipbuilding and mining carried on by the government ought
 to be furnished by private persons under contract. Agriculture is the
@@ -390,7 +355,7 @@ these sessions occurred in the early part of the nineteenth century,
 one of the most disturbed and critical periods of Spain's national
 existence. The most important measures of these Cortes concerning the
 Philippines were, the suppression of the Acapulco-Manila galleon and
-the abolition of the privileges formerly granted to the CompaÒia de
+the abolition of the privileges formerly granted to the Compa√±ia de
 Filipinas. In each of these assemblies efficient representation of the
 islands was barred by their distance from Spain and the difficulty
 of communication with that country, while, in general, political
@@ -398,7 +363,7 @@ development was very backward. The final ruling, in the Constitution
 of 1837, by which special laws were devised for the government of
 Ultramar, appears to have been the only possible solution of the
 difficulty (at least for the Philippines). Finally, we furnish a list
-of the archbishops of Manila during the Spanish rÈgime.
+of the archbishops of Manila during the Spanish r√©gime.
 
 
 The Editors.
@@ -450,7 +415,7 @@ Under Governor Aguilar the "Ordinances of good government," as
 revised by Governor Raon in 1768 (for which see VOL. L, pp. 191-264),
 were reprinted in the year 1801. "On September 8, 1804, Don Fray
 Juan Antonio Zulaibar, a Dominican, and formerly a professor in
-the university of Alcal·, took possession of the archbishopric of
+the university of Alcal√°, took possession of the archbishopric of
 Manila." In November following, the governor sent despatches to
 the king explaining his action in appointing to certain curacies
 regular instead of secular priests, saying that the latter were seldom
@@ -485,7 +450,7 @@ for so long a time noticed in these islanders does not permit in them
 that steadfastness which is so proper for the priestly character and
 the difficult office of the care of souls."
 
-"In June, 1805, the Frenchman FÈlix Renouard de Sainte-Croix was
+"In June, 1805, the Frenchman F√©lix Renouard de Sainte-Croix was
 commissioned to examine the gold mines in Mambulao (in Camarines);
 and in his report he explained that various gold mines existed there,
 with very rich veins, but some were difficult to develop and others
@@ -503,7 +468,7 @@ built, and made the police system more efficient; he also did much
 to promote domestic industries.
 
 Aguilar endeavored, throughout his term of office, to check the
-incursions of the Moros. The pirates attacked even the coasts of LuzÛn
+incursions of the Moros. The pirates attacked even the coasts of Luz√≥n
 in 1793, and an expedition sent out against them in December of that
 year accomplished almost nothing, being too late and ineffective. In
 the following year the governor called a council of the leading
@@ -525,26 +490,26 @@ with extra pay and honors to the crews; and to repair and strengthen
 all the forts on the coasts liable to attack. Aguilar attempted to open
 negotiations for peace with the Moro sultans; but these had no effect,
 the piracies still continuing. In the summer of 1794, a Portuguese
-trader of Manila who had carried goods to JolÛ was treacherously
+trader of Manila who had carried goods to Jol√≥ was treacherously
 attacked on his return, when near Iloilo, by the same Moros with
-whom he had traded at JolÛ; but he defended his vessel bravely, and
-one of the leading dattos of JolÛ was killed in the fray. In August,
+whom he had traded at Jol√≥; but he defended his vessel bravely, and
+one of the leading dattos of Jol√≥ was killed in the fray. In August,
 1795, two vessels of the Spanish royal navy arrived at Manila, with
 tidings that the English, again at war with Spain, were planning to
 occupy the Filipinas Islands; this compelled Aguilar to desist from
 further proceedings against the Moros, for the time. It was hoped
-that ¡lava and his powerful squadron (who remained at Manila during
+that √Ålava and his powerful squadron (who remained at Manila during
 1797-1802) might chastise the Moros, but nothing was accomplished in
 this direction--either through fear of another English invasion, or
-because of the disagreements between Aguilar and ¡lava. [3] On January
+because of the disagreements between Aguilar and √Ålava. [3] On January
 21, 1798, two English ships attacked the Spanish post at Zamboanga,
 but were bravely repulsed with much damage to the invaders. In that
 year a strong force of Moros attacked the village of Baler and others
-inland from the eastern coast of LuzÛn [where now is the province of
+inland from the eastern coast of Luz√≥n [where now is the province of
 Principe], constituting the oldtime missions of Ituy; they devastated
 these towns, and seized four hundred and fifty captives, among them
 three parish curas, one of whom was sold by them for 2,500 pesos. These
-pirates were established in BurÌas Island for four years, from which
+pirates were established in Bur√≠as Island for four years, from which
 center they harried the neighboring coasts. In 1799, the authorities
 decided that it was more expedient that the warfare with the Moros
 be carried on by the provincial authorities, with the direction and
@@ -552,7 +517,7 @@ aid of the central government; and instructions to this effect were
 sent to all the alcaldes-mayor. In 1800 Aguilar established friendly
 and commercial relations with Bandajar, sultan of Borneo; and on
 November 4, 1805, his governor at Zamboanga, Francisco Bayot, made
-a treaty of peace with Mahamad Ali Mudin, sultan of JolÛ, in which
+a treaty of peace with Mahamad Ali Mudin, sultan of Jol√≥, in which
 the latter agreed to forbid any foreigners to reside in his dominions
 without the consent of the Spanish government, and in case of war to
 close his ports to enemies of Spain. In 1804-05 English cruisers were
@@ -560,7 +525,7 @@ frequently seen off the coasts of Filipinas, and they even attempted
 to capture several villages on the Mindanao coast, but were repulsed.
 
 On Aguilar's death (August 8, 1806), the rule of the islands was
-assumed by the king's lieutenant at Manila, Mariano Fern·ndez de
+assumed by the king's lieutenant at Manila, Mariano Fern√°ndez de
 Folgueras; and his first measures were for the defense of Manila, as
 there were rumors of another attack by the English. In the summer
 of 1807, there arose a rebellion in the mountains of Ilocos Norte,
@@ -581,7 +546,7 @@ ought to support the French interests. Folgueras answered, refusing
 to accept any such propositions, and would do no more than to return
 the French prisoners from the captured vessel.
 
-On March 4, 1810, the new proprietary governor Manuel Gonz·lez Aguilar,
+On March 4, 1810, the new proprietary governor Manuel Gonz√°lez Aguilar,
 assumed his office. On February 14 preceding, a decree had been issued
 by the Spanish government granting to all the colonies in America
 and to Filipinas representation in the Spanish Cortes by deputies
@@ -608,7 +573,7 @@ whose chiefs attempted to found a new religion, in behalf of a deity
 whom they called Lungao; [5] they endeavored to persuade the heathen
 mountain-dwellers of Cagayan to join them, but the insurrection was
 quelled promptly by the Spaniards, and the ringleaders put to death. It
-was in Gonz·lez Aguilar's time that the Indians were allowed to render
+was in Gonz√°lez Aguilar's time that the Indians were allowed to render
 the services required from them for public works on those in their
 neighborhood. In order to relieve the public anxiety and impatience
 caused by the dearth of news from the mother-country, the authorities
@@ -618,12 +583,12 @@ English publications that came from Bengal. Accordingly, "the first
 newspaper in Filipinas made its appearance on August 8, 1811," [6]
 the second number appearing three days later; it was published during
 the rest of 1811 and part of 1812, and must have ceased for lack of
-material. [7] "On account of the war which EspaÒa was sustaining
+material. [7] "On account of the war which Espa√±a was sustaining
 against the French invaders, the religious corporations agreed to
 contribute with their donations toward the expenses of so great an
 undertaking; the Order of Dominicans gave with that object, in August,
 1812, the sum of 36,000 pesos. On March 19 the Constitution of 1812
-was promulgated at C·diz, and orders were issued that allegiance to
+was promulgated at C√°diz, and orders were issued that allegiance to
 it should be sworn in all the towns of the monarchy. The deputies
 signed it on the eighteenth, and among the signatures appears that of
 Don Ventura de los Reyes." The Constitution was solemnly proclaimed
@@ -636,7 +601,7 @@ to add to its revenues by pushing in the colonies the sale of bulls
 of the Crusade. [8]
 
 A new governor arrived at Manila assuming command on September 4,
-1813; this was JosÈ de Gardoqui Jaraveitia, who also had appointment as
+1813; this was Jos√© de Gardoqui Jaraveitia, who also had appointment as
 chief of the naval station. This exasperated the treasury officials,
 for thus the entire naval force was under one head, that sent against
 the pirates [which Aguilar had stubbornly kept separate from the
@@ -644,7 +609,7 @@ naval bureau--see "Events in Filipinas," VOL. L, pp. 23-74] being
 now taken from their control, with all its opportunities for their
 personal profit; and they opposed Gardoqui in whatever he proposed or
 undertook. [9] On February 1, 1814, a fearful eruption occurred in the
-volcano MayÛn, which partially or wholly destroyed many villages in
+volcano May√≥n, which partially or wholly destroyed many villages in
 Albay and Camarines; hot stones, sand, and ashes were poured forth from
 the crater, and villages were thus set on fire, and their inhabitants
 killed. The slain numbered 12,000, besides many more seriously injured;
@@ -674,14 +639,14 @@ of the renewal of absolutism in Spain, on the return of Fernando VII
 from his captivity in France; for on May 4, 1814, he issued a decree
 abolishing the Cortes, and nullifying its acts, and immediately began
 a course of persecution and condemnation, even to death, of all the
-prominent Liberals in the country. He also reÎstablished in Spain the
+prominent Liberals in the country. He also re√´stablished in Spain the
 Inquisition [10] (which had been abolished by the Cortes on February
 22, 1813), and the Society of Jesus. When the royal decrees were
 received in Filipinas, the Indians believed that they were false,
 and concocted in Manila; one thousand five hundred Ilocanos seized
 their arms, and began plundering, killing, and destroying throughout
 the province. This was mainly, however, a rebellion of the common
-people (Tagal, cailianes) against the ruling class, the principalÌa
+people (Tagal, cailianes) against the ruling class, the principal√≠a
 or notables; and the latter finally took arms against the rebels,
 aiding the Spaniards to suppress the insurrection. On July 20, 1814,
 a treaty of peace was made between Spain and France. "Gardoqui, by an
@@ -698,7 +663,7 @@ year of 1814, there was built in the environs of the town of Laoag
 parish priest there, Fray Vicente Febras, an Augustinian; and this
 act is worthy of note, since this was the first establishment of the
 kind in the provinces of the Archipelago." A royal decree of August
-22, 1815, reÎstablished the Jesuit order in the Indias and Filipinas;
+22, 1815, re√´stablished the Jesuit order in the Indias and Filipinas;
 and another, dated December 11, commanded the seizure in the colonies
 of various political books and pamphlets, with penalties for their
 use in schools. After the death of Governor Aguilar, the Moro pirates
@@ -707,7 +672,7 @@ attacks on the Spanish territories, and during several years they
 harassed the latter, taking many captives, and even seizing several
 vessels, both Spanish and English, on the seas. Governor Raffles,
 of Java, after the restoration of that island by England to Holland,
-proposed to Gardoqui that they coˆperate in occupying JolÛ and
+proposed to Gardoqui that they co√∂perate in occupying Jol√≥ and
 Mindanao; but the Spaniard declined this, protesting against any
 operations by the English in Spanish territory. "Gardoqui, during his
 term of office, caused the fortifications of Cavite to be repaired,
@@ -729,12 +694,12 @@ disappointment and wounded honor so grieved him that his death soon
 resulted (December 9, 1816).
 
 The command ad interim was again assumed by Folgueras, who held it
-during nearly six years. On December 17, 1819, he reÎstablished the
+during nearly six years. On December 17, 1819, he re√´stablished the
 "Royal Economic Society of Filipinas," as a result of royal orders
 to that effect issued in 1811 and 1813; and five days later its
 first session was held, the governor presiding, only two members
 of the original society being still alive. [11] A month later, it
-met again, with sixty new members, and Manuel Bern·ldez was chosen
+met again, with sixty new members, and Manuel Bern√°ldez was chosen
 director of the association; and its new ordinances were approved by
 the governor on July 24 following. Folgueras, learning that certain
 immunities and advantages had been granted to Cuba and Puerto Rico for
@@ -743,7 +708,7 @@ similar help for Filipinas; the crown decreed an investigation of the
 subject, but the fulfilment of this was delayed from time to time,
 so that not until 1848 was even a definite statement and proposal
 for action in this direction made. [12] (This was done by Rafael
-DÌaz Arenas, one of the four members of the Economic Society--to
+D√≠az Arenas, one of the four members of the Economic Society--to
 which the investigation had been referred--who had been appointed
 to prepare the data for a report to the crown; "but we do not know
 whether the Society accepted his proposal, or whether it reached any
@@ -779,7 +744,7 @@ and for this purpose he appointed a commission. [14]
 
 In October, 1820, was created the office of general intendant of
 army and treasury, separate from the superior government; and it was
-conferred upon Colonel Luis UrrÈjola, with a salary of 5,000 pesos. In
+conferred upon Colonel Luis Urr√©jola, with a salary of 5,000 pesos. In
 May, 1821, the Constitution of 1812 was again proclaimed in Filipinas,
 only to be again abrogated in 1824, as a result of Fernando VII's
 triumph (with French aid) over the Liberal party in Spain. "Folgueras
@@ -793,8 +758,8 @@ compensation, the creation of the nautical academy was an excellent
 idea, for its practical results are of great value." "In 1821 appeared
 the second periodical which was published in the country, entitled El
 Noticiero Filipino; [15] [i.e., "The Philippine Intelligencer"]; and
-in the same year were published two others, El Ramillete PatriÛtico
-["The Patriotic Bouquet"] and La FilantropÌa ["Philanthropy"]. The
+in the same year were published two others, El Ramillete Patri√≥tico
+["The Patriotic Bouquet"] and La Filantrop√≠a ["Philanthropy"]. The
 life of all was of short duration."
 
 Folgueras was replaced by a proprietary governor, Juan Antonio
@@ -814,13 +779,13 @@ that the governor became distrustful, and finally discovered that the
 American officers were plotting and conspiring against authority;
 he consequently arrested the persons suspected of this intrigue,
 and sent them to Spain (February 18, 1823)--among them being Luis
-RodrÌguez Varela, styled El Conde Filipino ["The Filipino Count"]; [16]
-and the factor of the Company of Filipinas, JosÈ Ortega. Nevertheless,
+Rodr√≠guez Varela, styled El Conde Filipino ["The Filipino Count"]; [16]
+and the factor of the Company of Filipinas, Jos√© Ortega. Nevertheless,
 the plots continued, and the authorities sent him who appeared to be
-the leader in these, Captain AndrÈs Novales, to fight the pirates in
+the leader in these, Captain Andr√©s Novales, to fight the pirates in
 northern Mindanao; he embarked (June 1, 1823), but was driven back
 by a storm, and immediately he and his accomplices determined to
-"declare themselves openly against the authority of EspaÒa," and set
+"declare themselves openly against the authority of Espa√±a," and set
 up a government of their own. The insurgents (some eight hundred in
 number) seized the cabildo house, and incarcerated therein the leading
 military chiefs and some magistrates; then they murdered Folgueras,
@@ -845,20 +810,20 @@ founded a monthly periodical entitled Registro Mercantil [17] ["The
 Mercantile Register"].
 
 The ravages of the Moro pirates continuing, and becoming each year more
-menacing, [18] MartÌnez sent out an expedition against them (February
-29, 1824), which laid waste the shores of JolÛ and southern Mindanao,
+menacing, [18] Mart√≠nez sent out an expedition against them (February
+29, 1824), which laid waste the shores of Jol√≥ and southern Mindanao,
 and killing a considerable number of Moros, among whom were three of
-their fiercest and most treacherous dattos. MartÌnez advocated such
+their fiercest and most treacherous dattos. Mart√≠nez advocated such
 operations as this, as the only means of stopping the piracies of the
 Moros. During the period of 1823-29, the Augustinian missionary Fray
 Bernardo Lago succeeded in reducing to village life and converting
 more than eight thousand Tinguianes and Igorrots in the province of
-Abra, forming the mission of Pidigan. In 1825 MartÌnez was replaced
-by Mariano Ricafort PalacÌn y Abarca, and departed for Spain; a few
+Abra, forming the mission of Pidigan. In 1825 Mart√≠nez was replaced
+by Mariano Ricafort Palac√≠n y Abarca, and departed for Spain; a few
 days after leaving Manila he died, and was buried in Cochinchina.
 
 Ricafort assumed office on October 14, 1825, and by royal orders also
-took possession of the intendancy of exchequer, although UrrÈjola
+took possession of the intendancy of exchequer, although Urr√©jola
 was continued in its charge; but in the following January Ricafort
 concluded that "this dual command was impossible," and restricted the
 intendant to certain routine functions, at the same time asking the
@@ -875,7 +840,7 @@ municipal funds, and regulating, for the future, expenditures of this
 sort.) A royal decree of June 8, 1826, ordained that the secularization
 of parish curacies should cease, and that those ministries should
 be restored to the religious orders, which was accordingly done. On
-September 15 of that year Fray HilariÛn Diez, an Augustinian, took
+September 15 of that year Fray Hilari√≥n Diez, an Augustinian, took
 possession of the archbishopric of Manila, replacing Zulaibar,
 who had died on March 4, 1824. In June a circular letter was sent
 by Ricafort to the provincial governors, reminding them of the law
@@ -884,10 +849,10 @@ to hinder in any way the trade in the products of the provinces,
 whether by Spaniards, natives, or mestizos, and whether in kind or
 with money, ordering them to permit trade freely everywhere, without
 any delays or exactions against those doing business. In 1827 Ricafort
-sent an expedition against JolÛ, which was kept off by the valor of
+sent an expedition against Jol√≥, which was kept off by the valor of
 the Joloans; but the Spaniards burned and ravaged the settlements
 on the shores of Illana Bay, doing the Moros much damage. In that
-same year the Spanish government reÎstablished the naval bureau at
+same year the Spanish government re√´stablished the naval bureau at
 Manila, independent of the captain-general, and Pascual Enrile was
 appointed as its chief; he proceeded to reorganize all branches of
 the service, including that intended to serve against the pirates,
@@ -895,7 +860,7 @@ whom he was able to restrain to a great extent; and he constructed
 several cruisers and other vessels, one of which remained in active
 service for forty years. He established the jurisdiction of the bureau
 throughout the archipelago, creating port-captains for Iloilo, Capiz,
-Ceb˙, and Pangasin·n. Ever since the insurrection of 1744 in Bohol,
+Ceb√∫, and Pangasin√°n. Ever since the insurrection of 1744 in Bohol,
 caused by the imprudence of the Jesuit Morales, the insurgents had
 (under their chief Dagohoy) maintained hostilities, not only against
 the Spaniards, but even harassing their own countrymen who occupied
@@ -920,7 +885,7 @@ be settled by the magistrates as promptly and simply as possible,
 are not unjust," and that no Indian laborer should be imprisoned
 for a purely civil debt (save those to the royal exchequer), nor
 should his animals, tools, lands, or house be seized therefor. The
-Spanish minister of the exchequer, Luis LÛpez Ballesteros, also took
+Spanish minister of the exchequer, Luis L√≥pez Ballesteros, also took
 a paternal interest in the islands, and secured royal decrees for
 the benefit of their industries. One of these (dated April 6, 1828)
 encouraged the importation into Filipinas of all machinery suitable for
@@ -934,7 +899,7 @@ agricultural machinery and implements into Filipinas; and authorized
 premiums and rewards from the public funds to Filipino farmers who
 should first make large plantations of coffee, cacao, cinnamon,
 and cloves, as also to those who should make most progress in the
-plantations of Chinese cinnamon [canelÛn], tea, and mulberry-trees,
+plantations of Chinese cinnamon [canel√≥n], tea, and mulberry-trees,
 and in raising silk, etc. Those who kept in cultivation a certain
 area of land, and day-laborers who continued to work for a certain
 number of years, were exempted from paying tributes; and the native
@@ -974,8 +939,8 @@ of October 27, 1829, it was provided that the post of superintendent
 of the exchequer should be filled by the intendant of the army and
 treasury; accordingly this charge was assumed (September 9, 1830) by
 Francisco Enriquez, who for two years had been intendant succeeding
-UrrÈjola. In January, 1829, an officer named Guillermo Galvey (whose
-duty it was to follow up smugglers in Pangasin·n and Ilocos) conducted
+Urr√©jola. In January, 1829, an officer named Guillermo Galvey (whose
+duty it was to follow up smugglers in Pangasin√°n and Ilocos) conducted
 an expedition into the district of Benguet; an interesting account of
 this is found in the diary left by him. By royal decree of April 5,
 1820 Spanish vessels were permitted to enter British ports just as
@@ -995,19 +960,19 @@ the object of its creation."
 
 Ricafort was succeeded (December 23, 1830) by Pascual Enrile y Alcedo,
 a most zealous and able governor. He personally visited the northern
-provinces of LuzÛn, accompanied by his relative and adjutant, JosÈ
-MarÌa PeÒaranda (afterward the governor of Albay), a military engineer,
+provinces of Luz√≥n, accompanied by his relative and adjutant, Jos√©
+Mar√≠a Pe√±aranda (afterward the governor of Albay), a military engineer,
 who afterward made journeys and surveys in a large part of the rest
 of that island; this resulted in carefully prepared itineraries,
 plans, and maps, which were utilized in the construction of highways
 and bridges, and the establishment of postal routes, which opened up
 communication between regions before destitute of such facilities,
 and sometimes in places heretofore deemed impassable. The navigable
-rivers and bayous of Pangasin·n were explored and mapped; a highway
+rivers and bayous of Pangasin√°n were explored and mapped; a highway
 was made in Pampanga which should be safe from the overflow of Lake
-Canarem; and explorations were made from east to west in LuzÛn for
+Canarem; and explorations were made from east to west in Luz√≥n for
 the sake of bringing the shores of the island into communication
-with the fertile plains of the interior. On May 14, 1834, PeÒaranda
+with the fertile plains of the interior. On May 14, 1834, Pe√±aranda
 was made corregidor or governor of the province of Albay, "which
 experienced a complete transformation during his just and beneficent
 rule. To him it owed its most important roads, bridges, and public
@@ -1022,14 +987,14 @@ that in 1833 this Society, in an opinion requested from it by the home
 government, opposed the establishment of a mint at Manila, and informed
 Enrile that such institution was at that time unnecessary. In March,
 1831, Galvey made an expedition into the country of the Igorrots;
-and in the following December, to the district of Bac˙n. A decree
+and in the following December, to the district of Bac√∫n. A decree
 of May 9, 1831, established a custom-house in Zamboanga, "in order
-to prevent the frauds committed by foreigners in the port of JolÛ,
+to prevent the frauds committed by foreigners in the port of Jol√≥,
 and to facilitate and promote expeditions to that point." A royal
 decree of April 24, 1832, substituted the garrote for the gallows in
 capital punishments. Another, dated February 16, 1833, provided for
 the adjustment and management of the funds belonging to the obras
-pÌas, which charge was entrusted later to a committee composed
+p√≠as, which charge was entrusted later to a committee composed
 of the governor of the islands, some of the treasury officials,
 and the archbishop. [21] The treasury officials, by a decree of
 July 3, 1833, accepted the proposal of certain persons to establish
@@ -1039,7 +1004,7 @@ cent of the value of the tickets which composed each drawing, after
 furnishing adequate security as a guarantee for the fulfilment of
 their promise." The exclusive privilege of this lottery was granted
 to these persons for a period of five years. Enrile created the
-GuÌa de forasteros ["Guide for Strangers"] of Filipinas; it first
+Gu√≠a de forasteros ["Guide for Strangers"] of Filipinas; it first
 appeared in 1834. Our author reproduces (t. ii, pp. 539, 540) the
 table of contents of this annual. Fernando VII died on September 29,
 1833, and was succeeded by his daughter Isabel II, to be until her
@@ -1048,7 +1013,7 @@ quickly followed by the Carlist insurrection, the reactionary party
 being headed by the young prince Carlos, who was proclaimed king
 as Carlos V, and civil war ensued, which for seven years stained
 the soil of Spain with the blood of her own sons. By royal order of
-August 10, 1834, the Chinese traders were restricted to the Pari·n,
+August 10, 1834, the Chinese traders were restricted to the Pari√°n,
 and those Chinese who were allowed to reside in the provinces
 must devote themselves to agricultural pursuits. Enrile issued an
 edict on October 1, 1834, removing the special duties imposed on the
@@ -1065,7 +1030,7 @@ a light-house to be erected on Corregidor Island. Our writer commends
 this governor as being "one of the most intelligent and industrious
 who have ever ruled Filipinas." "To him the country owes material
 improvements of the utmost value, of so much importance as the great
-highways of LuzÛn, which have facilitated the intercourse between
+highways of Luz√≥n, which have facilitated the intercourse between
 the provinces, bringing them into postal communication, one after
 another, by means of the mail-routes established by him; and the
 administration of the colony is indebted to him for regulations and
@@ -1086,15 +1051,15 @@ military officer, he immediately proposed plans for the improvement
 of the military service; but these were checked by his premature
 death, [22] less than two months after entering on his office. In
 his place, the command was assumed (April 23) by the officer next
-him in rank, Juan Cr·mer; but he surrendered this office on September
+him in rank, Juan Cr√°mer; but he surrendered this office on September
 9 following to the new segundo cabo, Pedro Antonio Salazar Castillo
 y Varona. The latter, on April 25, 1836, issued an edict that "the
 plain [sencillas] pesetas coined in the Peninsula should be accepted
-[in the islands] at their lawful value of four reals vellÛn instead
+[in the islands] at their lawful value of four reals vell√≥n instead
 of five, as if they were pillar coins [columnarias]; [23] accordingly
 they began to circulate, having been recently introduced into the
 islands." On June 11, 1836, the superintendency of treasury affairs
-was assumed by UrrÈjola in place of EnrÌquez. [24] On July 28,
+was assumed by Urr√©jola in place of Enr√≠quez. [24] On July 28,
 Salazar found it necessary to issue an edict for the enforcement
 of the laws which prohibited carrying gunpowder and firearms to
 the Indias, and selling them in countries hostile to Spain; this
@@ -1102,11 +1067,11 @@ referred especially to Moroland, where evidently the pirates had
 been thus aided by unscrupulous traders to make their raids against
 the northern islands. Salazar thought that he could restrain those
 piracies by carrying on commerce with the Moros, and therefore made a
-treaty with the sultan of JolÛ, Mahamad Diamalud Quiram (September 22,
+treaty with the sultan of Jol√≥, Mahamad Diamalud Quiram (September 22,
 1836), which stipulated "that every three-masted ship which made port
-at JolÛ with Chinese passengers from Manila should pay 2,000 pesos
+at Jol√≥ with Chinese passengers from Manila should pay 2,000 pesos
 fuertes, and smaller vessels in proportion to their size;" but "the
-most important cargo which went from Manila to JolÛ never exceeded
+most important cargo which went from Manila to Jol√≥ never exceeded
 2,500 pesos. The Joloan barks which should go to Zamboanga were to
 pay a duty of one per cent, and those which entered at Manila two
 per cent; but no Joloan bark was accustomed to go to Manila." The
@@ -1120,7 +1085,7 @@ rainy season; they reached that region, and built some forts, but so
 many of the soldiers were attacked by sickness that the expedition
 was forced to give up the undertaking and retire, "without any other
 result than the expenditure of several thousand dollars." [25]
-In that same year, PeÒaranda conducted with brilliant success an
+In that same year, Pe√±aranda conducted with brilliant success an
 expedition to dislodge the pirates from Masbate Island, where they
 had fortified themselves. "Afterward, he established a system of
 signals in the provinces of the south, to watch the movements of those
@@ -1187,7 +1152,7 @@ a provision reiterated by succeeding constitutions. "From that time
 Filipinas lost its representation in the Cortes."
 
 On August 4, 1837, arrived at Manila the new governor of the islands,
-AndrÈs GarcÌa Camba, a knight of the Order of Santiago. He had already
+Andr√©s Garc√≠a Camba, a knight of the Order of Santiago. He had already
 spent ten years in Filipinas (April, 1825, to March, 1835), and had
 gone to Spain as the deputy of Manila to the Cortes, an honor twice
 again conferred upon him. He was received with the utmost enthusiasm,
@@ -1208,7 +1173,7 @@ but had gone to Manila instead, and were not only unmolested there,
 but visited and entertained by many of the most prominent people of
 the city, and especially by the ecclesiastical element. Camba found
 that Carlist reunions were being held in the convents of San Juan
-de Dios and Santo Domingo, and that even the archbishop, [Fray JosÈ
+de Dios and Santo Domingo, and that even the archbishop, [Fray Jos√©
 Segui] was an avowed adherent of the Pretender; the governor tried
 to conciliate the disaffected, but with little success, since the
 clergy, the Audiencia, and many influential persons, both citizens and
@@ -1222,7 +1187,7 @@ the interests of the islands, and his patience with his opponents,
 they exerted so much influence and carried on so many intrigues against
 him, not only in Manila but at Madrid, that they procured his recall to
 Spain; [29] and on December 29, 1838, he surrendered the governorship
-to his successor, Luis Lardiz·bal y Montoya. Notwithstanding the
+to his successor, Luis Lardiz√°bal y Montoya. Notwithstanding the
 obstacles and difficulties which Camba continually encountered, he
 accomplished some important improvements in the administration, [30]
 the chief of these being the reorganization of the postal service,
@@ -1230,7 +1195,7 @@ which from 1838 was conducted under one bureau and on modern lines;
 he improved the means of communication between the provinces, and
 pushed forward the reduction of the heathen tribes. He informed the
 Spanish government that the attempts to make treaties and alliances
-with the sultans of JolÛ were of no use in bringing any permanent or
+with the sultans of Jol√≥ were of no use in bringing any permanent or
 substantial advantage to Spanish navigation and commerce. In 1837 was
 published the Flora de Filipinas of the Augustinian Fray Manuel Blanco,
 the first attempt to form a compendium of Philippine botany. [31]
@@ -1242,7 +1207,7 @@ Ricafort and Enrile."
 A royal order of November 16, 1838, had prohibited the holding of
 provincial chapter-sessions in Filipinas; the Recollect procurator at
 Madrid remonstrated with the government against this, and the matter
-was referred to the governor and archbishop of Manila. Lardiz·bal
+was referred to the governor and archbishop of Manila. Lardiz√°bal
 decided that the chapters should meet, and that the senior auditor
 of the Audiencia should attend those sessions, as the representative
 of the vice-regal patron. By a decree of August 31, the governor
@@ -1251,7 +1216,7 @@ regulated the status of the Chinese in the islands. They were
 and permanent residents. They were allowed to choose the occupation
 which best suited them, without any restriction. The resident
 Chinese who should be arrested [as being] without official permit
-[cÈdula] or passport were condemned to labor on the public works;
+[c√©dula] or passport were condemned to labor on the public works;
 and deportation to Zamboanga, Misamis, Paragua, and Calamianes was
 decreed for all those who were serving a prison term for failure to
 pay their capitation-tax, in both Manila and Cavite, with the object
@@ -1269,7 +1234,7 @@ contain principles, opinions, or doctrines opposed to the rights of
 the legitimate government or to the religion of the State, it shall be
 not only seized but reshipped." [33] On July 15, 1840, was opened the
 School of Commerce, established at the request of the Board [Junta]
-of Commerce. "On November 11 Lardiz·bal repeated Ricafort's edict of
+of Commerce. "On November 11 Lardiz√°bal repeated Ricafort's edict of
 1828, prohibiting foreigners from selling merchandise at retail and
 entering the provinces to trade." At the end of this year important
 changes were made in the administration of financial affairs, all
@@ -1281,13 +1246,13 @@ supervision was introduced the system of bookkeeping by double entry,
 which had been established in the royal accountancy of the exchequer
 in 1839. The governor also issued instructions for more careful and
 accurate accounting being made of municipal property and local imposts,
-in order to prevent abuses and waste of funds. Lardiz·bal was soon
+in order to prevent abuses and waste of funds. Lardiz√°bal was soon
 weary of his command, although faithful to his duties while governor,
 and so earnestly entreated the home government to allow him to return
 to Spain that finally he gained this permission; and he departed on
 that voyage (February, 1841), only to die a few days after leaving
 Manila; he was buried on an islet near Java. He was succeeded by
-Marcelino de Or·a Lecumberri.
+Marcelino de Or√°a Lecumberri.
 
 
 
@@ -1363,9 +1328,9 @@ examine them, having from various causes failed, or only extended to
 a short distance round the capital. [37]
 
 The climate of these islands is remarkably temperate and
-salubrious. The thermometer in Manila is sometimes as low as 70∞,
-and rarely exceeds 90∞ in the house during the N. E. monsoon. In
-the interior it is sometimes as low as 68∞ in the mornings, which
+salubrious. The thermometer in Manila is sometimes as low as 70¬∞,
+and rarely exceeds 90¬∞ in the house during the N. E. monsoon. In
+the interior it is sometimes as low as 68¬∞ in the mornings, which
 are remarkably cool, so much so as to require at time$ woolen
 clothing. None of the mountains are within the limits of perpetual
 congelation; but I think some cannot be far from it, as I have seen
@@ -1375,7 +1340,7 @@ be higher ones in the interior of Magindanao. [38]
 Both natives and Spaniards live to a tolerable age, in spite of
 the indolent habits of the latter, and the debauches of both. The
 Spaniards are most commonly carried off by chronic dysentery, which is
-called by them "la enfermed·d del pays" (the illness of the country):
+called by them "la enfermed√°d del pays" (the illness of the country):
 from its very frequent occurrence, at least 7 out of 10 of those who
 exceed the age of 40, fall victims to this disorder. [39] Acute liver
 complaints are very rare, as is also the chronic affection of that
@@ -1877,7 +1842,7 @@ impose small contributions of money or labour for local objects, such
 as repairs of roads, &c. &c. They also have the power of inflicting
 slight punishments on the refractory. To them is also confided the
 collection of the capitation or poll-tax, which is done by dividing the
-population of the town or village into tens, each of which has a CabeÁa
+population of the town or village into tens, each of which has a Cabe√ßa
 (or head), who is exempt from tribute himself, but answerable for the
 amount of the ten under him. This tax is then paid to the Alcalde or
 Corregidor, and from him to the treasury. The Mestizos and Chinese
@@ -2682,7 +2647,7 @@ there is no certainty.
 
 Sulphur is found in the neighbourhood of the volcanoes in considerable
 quantities, and is an article of export to Bengal and other places:
-the principal part of it is collected on the island of LeytÈ, which is
+the principal part of it is collected on the island of Leyt√©, which is
 next to Samar on the south side of the strait of St. Bernardino. It
 is collected on the edges of numerous small apertures, which emit
 at times flames and smoke. These are situated in an extensive plain
@@ -2993,7 +2958,7 @@ MANILA
 
 
 Manila, [122] the capital of the "kingdom of the Phillippines," [123]
-in lat. 14∞ 26' N. and long. 121∞ 3' East of Greenwich, is situated
+in lat. 14¬∞ 26' N. and long. 121¬∞ 3' East of Greenwich, is situated
 on the eastern side of an extensive bay in the western coast of the
 island Luzon, or Luconia, as it is sometimes called. It is a captain
 general-ship (not a viceroyalty), and archbishopric, and the seat of
@@ -3031,7 +2996,7 @@ on this side is the river, [124] the current of which is always rapid.
 Over it is a neat but narrow stone bridge of ten arches, which joins
 the city at its northern angle to the suburbs. On the city side of
 the bridge is a square tower, with an archway pierced through it,
-and with embrasures on the top. This is intended as a "tÍte de pont;"
+and with embrasures on the top. This is intended as a "t√™te de pont;"
 but it is too small for any effective purpose, and, like the bastions
 on this face, resembles a military plaything; and this defect is the
 more striking, as the fortifications, from this angle on the land
@@ -3523,7 +3488,7 @@ peremptory necessity of completing the military corps and protecting
 the service than on account of their fitness, military spirit, or
 appreciation of the confidence and honor which the king bestows on
 them. Such sentiments they can never possess until they undergo a
-rigid training moral and political, in the colleges of EspaÒa. This
+rigid training moral and political, in the colleges of Espa√±a. This
 mental divergence, and the natural contrariety of their temperaments,
 so mischievous in the ordinary service of military bodies, are much
 more lamentable in the crisis of a revolution. The officers of the
@@ -3551,7 +3516,7 @@ Indian. [The writer states that even these non-commissioned officers
 were formerly always Spaniards; [141]] the appointment of Indians to
 these posts has been only in these last years, in which a system of
 commerce which entirely separated those islands from their center of
-government has rendered impossible the despatch of reÎnforcements,
+government has rendered impossible the despatch of re√´nforcements,
 so necessary to those islands. From that very time may be noted much
 laxity in the military service and discipline; and I have witnessed the
 insurrections and disorders which never were known in former days. In
@@ -3622,11 +3587,11 @@ of the Filipino Indian is the most efficacious for disconcerting,
 in its origin or progress, any plan for conspiring or taking by
 surprise. [In such a point of vantage, the government can use measures
 of policy,] which in revolutions are more effective than arms for
-reÎstablishing order, without leaving in the minds of the people,
+re√´stablishing order, without leaving in the minds of the people,
 as war does, deep feelings of resentment at being repressed; and the
 partial revolutions in the provinces will be always broken--as thus
-far have been those of Ilocos, Ceb˙, Bataan, and others--by the zeal
-and sagacity of the European religious and coˆperation of the civil
+far have been those of Ilocos, Ceb√∫, Bataan, and others--by the zeal
+and sagacity of the European religious and co√∂peration of the civil
 employees of the king. In such a crisis, the principle is, to disunite
 sagaciously the opinions and feelings of the people; and repression by
 force only unites them. [If the military forces, the forts, and the
@@ -3817,7 +3782,7 @@ troops, and cannon supported by the Spaniards make a heavy burden of
 expense on the treasury and on the people; and the amount thus spent
 in half a dozen years is enough to equip a strong naval expedition
 which could humble the insolence of the pirates. In view of this,
-and of the importance of JolÛ--which is the headquarters of the
+and of the importance of Jol√≥--which is the headquarters of the
 Moro pirates and of their government, and the general market for
 the Christian slaves and property which they carry away--Bernaldez
 advocates the immediate conquest of that island, and its repopulation
@@ -4186,7 +4151,7 @@ boletas of that vessel, their only means of making a living.
 [Bernaldez declares that these European Spaniards, "there abandoned,
 as it were, to the mercy of charity, or to vices," are not only
 useless but dangerous to the country; that among them revolutions
-are born; that it is for the best interests of EspaÒa to retain
+are born; that it is for the best interests of Espa√±a to retain
 her population at home, and, while furnishing means for Spaniards
 to enrich themselves in the colonies or their trade, to attract to
 the mother country all possible wealth and capital, not allowing her
@@ -4215,10 +4180,10 @@ condition of leaving the country with his wife. No European adventurer
 or idler should be allowed to remain in the islands unless he proffer
 sufficient security for his good conduct and occupation; he may then
 remain not longer than ten years; otherwise, he should be at once sent
-back whence he came. Every ship should carry back to EspaÒa as many
+back whence he came. Every ship should carry back to Espa√±a as many
 Spaniards as it brought to the islands; and European Spaniards should
 not be allowed to remain in Filipinas more than ten years, after which
-they should be compelled to return with their families to EspaÒa.]
+they should be compelled to return with their families to Espa√±a.]
 
 
 
@@ -4273,7 +4238,7 @@ best order and discipline until, in the year '23, those officers were
 added to them who accompanied General Martinez--of some of whom,
 according to the documents which were executed for my court, their
 appointment to the Indias, with their scandalous conduct, looks
-like a proof that in EspaÒa there was neither religion, morality,
+like a proof that in Espa√±a there was neither religion, morality,
 nor subordination. [Bernaldez urges that certain qualifications be
 required for office in Filipinas; the governors should be members of
 learned bodies, and excel in discretion and ability, and in the art
@@ -4312,23 +4277,23 @@ Of the despatch of assistance to the Filipinas Islands
 
 [This section is devoted to the evils resulting from the remoteness
 of the islands, and the neglect of providing them with facilities
-for communication with EspaÒa; it is necessary, if the government
+for communication with Espa√±a; it is necessary, if the government
 desires to keep the islands; to remedy this deficiency at once,
 for their material prosperity, the administration of justice, their
 safety from enemies, their loyalty to the crown--all are at great
 risk under present conditions. "The establishment of postal service
 in vessels of the royal armada would be a most burdensome expense
-to the treasury of EspaÒa and to that of Filipinas. Unfortunately,
+to the treasury of Espa√±a and to that of Filipinas. Unfortunately,
 previous to the royal decree of 1820 in regard to the commerce of
 Filipinas, in the long period of forty years only twenty trading
 ships have gone to those islands, leaving them without assistance or
 communication during the long space of three, four, five, or [even]
 seven years." However, this can be remedied, and without expense, by
 suitable measures for the promotion of commerce between the islands
-and EspaÒa, "an attempt at which has been made in these last six
+and Espa√±a, "an attempt at which has been made in these last six
 years, during which time more expeditions direct to Filipinas have
 been effected than in the preceding forty years--that is, sixteen
-from Cadiz, three from Santander, CoruÒa, and San Sebastian, and five
+from Cadiz, three from Santander, Coru√±a, and San Sebastian, and five
 whose return is now expected."]
 
 
@@ -4350,7 +4315,7 @@ intendants by the laws of the Indias. Essential as this requirement
 is, it has always been neglected.] What those officials sometimes
 write, when questioned about these matters, are but generalities;
 their reports and information are reduced to how much has been
-produced and how much spent, in the rÈsumÈ of the royal exchequer
+produced and how much spent, in the r√©sum√© of the royal exchequer
 accounts. Thus it is not known with what necessity and justice certain
 extraordinary expenses have been incurred, what number of employees the
 king has in that colony, what causes have occasioned the increase or
@@ -4451,7 +4416,7 @@ and they made agreements, placed limits to the villages, furnished
 a sort of municipal ordinance, and protected the natives against the
 oppressions of the alcaldes-mayor. Notwithstanding my high opinion of
 that tribunal, I regard as very proper the provisions of law xxxiv,
-tÌtulo ii, book ii of the laws of the Indias in regard to the removal
+t√≠tulo ii, book ii of the laws of the Indias in regard to the removal
 and promotion of its ministers, basing my opinion on the same arguments
 as did the law--that is, that it is very desirable not only to reward
 them, but to uproot them from the friendships which they contract
@@ -4531,7 +4496,7 @@ other means of communication than the barks of the alcalde. But now,
 when the coasting trade has become so general, it is a necessity to
 abolish, in most of the provinces of the islands, that absurd system of
 trading alcaldes; and to appoint in their places corregidors, lawyers
-educated in EspaÒa, with only a salary, and the charge of making
+educated in Espa√±a, with only a salary, and the charge of making
 collections for the royal revenue, with the right to the offices in
 the Audiencia there. This increase in expenditure should be covered
 by the duties which ought to be imposed on the coasting trade, which
@@ -4543,7 +4508,7 @@ the study of those regions hitherto unknown, plans of reform, and the
 encouragement of industry and commerce among the people--not forgetting
 to preserve friendly relations with the parish priests. He recommends
 that seventeen of the provinces in the islands of Luzon, Panay, and
-Ceb˙ be divided into corregidorships, eight into those of the first
+Ceb√∫ be divided into corregidorships, eight into those of the first
 class, and nine into those of the second, with specified salaries
 to each; that appointments to these posts be made for six years;
 and that corregidors of the first class be proposed by the Audiencia.]
@@ -4607,7 +4572,7 @@ from their industries, in order to give at the same time a great
 impulse to commerce. This is not a paradox, for the use of tobacco
 is of so prime necessity for the Indians that the same calculation
 can be made for that object that would be made for the use of bread
-in EspaÒa. [Bernaldez considers the injurious effects of enforcing
+in Espa√±a. [Bernaldez considers the injurious effects of enforcing
 this monopoly in only a part of the islands--"although more than half
 the population is today subject to the monopoly, its income is only
 one-tenth of what, at a reasonable estimate, it ought to be"--and
@@ -4624,7 +4589,7 @@ before a board which the government there shall appoint annually,
 composed of officials from the capital who are most trustworthy and
 intelligent in that branch of administration, such tobacco as proves
 to be unfit for use being burned in their presence. That all the
-tobacco which can be collected in Filipinas be conveyed to EspaÒa, by
+tobacco which can be collected in Filipinas be conveyed to Espa√±a, by
 means of contracts with private persons for the freighting of ships;
 and with it the amount which can be remitted from the [different]
 branches of the royal exchequer, and the annual surplus of their funds.
@@ -4773,7 +4738,7 @@ cast iron, dry beans, and foreign paper, which should pay twenty and
 twenty-five per cent respectively. Goods, whether national or foreign,
 not declared as in transit at leaving Manila shall pay two and four per
 cent respectively; but those registered on a Spanish ship from India,
-China, and all Asia for EspaÒa, ten per cent. Coined silver and gold,
+China, and all Asia for Espa√±a, ten per cent. Coined silver and gold,
 and silver bullion, shall pay no entrance duty at Manila, but on
 leaving that port shall pay three and six per cent respectively;
 and foreign gold in bullion shall pay eight per cent at entering
@@ -4813,7 +4778,7 @@ three years of holding them they allow [the making of] a fortune;
 and also that the class of mestizos and Chinese is the only one that
 is sure of becoming rich in Filipinas.... The result is, that with
 the exception of the great fortunes which in other times were made in
-the privileged commerce of Nueva EspaÒa, it is this [coasting trade]
+the privileged commerce of Nueva Espa√±a, it is this [coasting trade]
 from which have proceeded the fortunes of Manila. [This branch of trade
 is exempt from all duties, a privilege which does not benefit either
 the agriculture or the other industries of the Indians, since they
@@ -4835,7 +4800,7 @@ from the time when this law shall go into effect, the power which
 the municipality of Manila has to tax the value of the provisions
 which come from the provinces shall be suppressed. The exemption from
 duties will tend, in regard to the provinces of Luzon, to encourage in
-that island preÎminently, as is desirable, agriculture and industry,
+that island pre√´minently, as is desirable, agriculture and industry,
 and at the same time will save to the custom-house the new expenses
 which it would [otherwise] have to incur for establishing posts and
 men to guard against smuggling.
@@ -4852,7 +4817,7 @@ a colonial money, which on account of its provisional value cannot
 be taken out of the country, and, being directed into the internal
 commerce of the province, feeds and multiplies exchanges. In Filipinas
 there was no need of adopting that measure while its commerce with
-Nueva EspaÒa lasted, because then those islands were receiving annually
+Nueva Espa√±a lasted, because then those islands were receiving annually
 a million of Mexican pesos, and the situado of two hundred and fifty
 thousand; and, besides this, the business that was carried on during
 that period in the natural and industrial products of the country
@@ -4944,19 +4909,19 @@ in which precautions are taken against any fraud in this matter.
 
 Of the charitable funds established in Filipinas
 
-[The obras pÌas merit full attention from the government,] on account
+[The obras p√≠as merit full attention from the government,] on account
 of the advantages which the agriculture and industry of the islands
 may gain from them. If the limited and privileged dealings of Manila
-with Nueva EspaÒa had not been reduced to a merely passive commerce
+with Nueva Espa√±a had not been reduced to a merely passive commerce
 of transfer or transportation, those foundations would, at the same
 time while they have become wealthy, have given real opulence to that
 commerce. Of the enormous profit of two hundred and three hundred
 per cent which the transactions of the galleon yielded at Acapulco,
 the greater part was for the foreign dealers of India and China,
 whose wares supplied almost all the lading of the galleons, and for
-the obras pÌas; a greatly reduced profit remained for the Manila
+the obras p√≠as; a greatly reduced profit remained for the Manila
 merchants, which could be shown by a calculation which might be made
-of the many millions imported from Nueva EspaÒa by the galleons, and
+of the many millions imported from Nueva Espa√±a by the galleons, and
 of the comparatively small value, in money or assistance, which has
 remained [therefrom] in the islands. [The returns from these funds are
 now greatly diminished, since the cessation of the Acapulco trade,
@@ -4981,7 +4946,7 @@ the welfare of the islands. That the funds in the communal treasuries
 of the Indians and the Chinese, those of the secular revenues,
 [151] and any others which are not subject to private foundations and
 regulations, and which hitherto have followed in their investments the
-rules of the obras pÌas, shall be by preference set aside for rewards
+rules of the obras p√≠as, shall be by preference set aside for rewards
 bestowed for enterprises in agriculture, industry, and inter-island
 trade. Thus will be remedied the injury arising from the failure of
 those great funds to be in circulation; and the abuse of employing
@@ -5023,7 +4988,7 @@ construction of ships and cannon, and the introduction of machinery
 for mining and iron-working. That arrangements be made for building
 war-ships each year, by contracts for the supply of timber and the
 manual labor. That competent engineers and constructors be sent from
-EspaÒa, at good salaries; that necessary supplies and materials be
+Espa√±a, at good salaries; that necessary supplies and materials be
 secured by contracts, bid for in public; and that funds from the royal
 exchequer be set aside for this purpose to the amount of one hundred
 thousand to one hundred and fifty thousand pesos annually. That all the
@@ -5092,12 +5057,12 @@ for reasons that are rightful and conformable to sound policy (as I
 have set forth), the residence of foreigners in the islands ought not
 to be permitted, I find no other means than this, that the government
 encourage, by judicious measures, the direct and unlimited commerce of
-EspaÒa with that colony--of which I shall speak in another chapter,
+Espa√±a with that colony--of which I shall speak in another chapter,
 [presenting] the rough sketch of a plan which ought to produce the
 following effects: (a) The definite and reliable annual exportation
 from those islands, not only of the great quantity of sugar, indigo,
 coffee, and other native products which are needed in the ordinary
-consumption of EspaÒa, but of that which Spanish commerce can dispose
+consumption of Espa√±a, but of that which Spanish commerce can dispose
 of in the other nations and free ports of Europa. (b) The establishment
 of Spanish trading posts [factorias] in the interior of the provinces
 of Filipinas, which the Spanish mercantile interests will carry on
@@ -5110,7 +5075,7 @@ number of years.
 of great agricultural establishments. One of the causes for this is
 the fact that the capital of the islands, which ought to be employed
 for that object, has been diverted by the commerce of India, China,
-and Nueva EspaÒa, which offers greater and quicker profits. The
+and Nueva Espa√±a, which offers greater and quicker profits. The
 religious orders administer their estates as in mortmain, or by
 ecclesiastical rules. The Indians cultivate, not from inclination
 but through necessity, the little plots of ground on which they have
@@ -5152,11 +5117,11 @@ is unquestionable that when that privilege ceases that commerce will
 likewise come to a complete stop. For if from the twenty-four silver
 reals, the highest price at which an arroba of the Manila sugar
 can be sold, be deducted for duties eight reals and twenty-seven
-maravedÌs, the trader will receive a price of only nineteen silver
+maraved√≠s, the trader will receive a price of only nineteen silver
 reals, five cuartos; subtracting from this the fourteen and one-half
 reals of the prime cost at Manila (according to the latest information
 received), and the only profit left to him would be four reals, three
-maravedÌs--with which it is absolutely impossible for him to pay either
+maraved√≠s--with which it is absolutely impossible for him to pay either
 the heavy freight charges on that commodity, or the interest on money
 and the insurance premiums, on a voyage three times as long as that
 from Habana. The low price [of sugar] in the market has no other cause
@@ -5215,7 +5180,7 @@ also they are passionately fond of cockfighting and spectacles of
 all sorts, and of office-holding; and if these characteristics are
 considered in the policy of the government much can be done to make
 them industrious. Bernaldez recommends: That a system of direct,
-unlimited, and regular commerce be established between EspaÒa and
+unlimited, and regular commerce be established between Espa√±a and
 Filipinas, for the purpose of maintaining a reliable and definite
 annual exportation of the latter's products. That agricultural
 establishments be protected by the government, being allowed
@@ -5306,7 +5271,7 @@ to the value of $300,000, nearly all of which sum they carry back to
 their own country in cash. The Armenians of India and the Chinese had
 likewise the control, from the time of the conquest of the islands,
 of importing into them annually the enormous quantity of small cotton
-articles [paÒuelos] and ordinary cambayas which the natives of the
+articles [pa√±uelos] and ordinary cambayas which the natives of the
 country consume, until intercourse with those coasts was interrupted
 in the late war with Inglaterra. Then necessity and the high price
 of those goods induced the natives of Filipinas to manufacture them,
@@ -5355,9 +5320,9 @@ it." Moreover, a new and important line of goods would be added to
 the exports of Filipinas in these fine cotton fabrics, which would
 be equal to those of India and even cheaper; while the islands can
 always supply their own coarse cottons much more cheaply than these
-can be manufactured in EspaÒa, an industry which should therefore be
+can be manufactured in Espa√±a, an industry which should therefore be
 fostered in Filipinas. These coarse commodities could thus be supplied
-also to EspaÒa, more cheaply than they can be manufactured there;
+also to Espa√±a, more cheaply than they can be manufactured there;
 thus Spanish commerce would be liberated from its present dependence
 upon foreign countries for them, and the money paid for them would
 instead go into the hands of Spaniards, in Spanish possessions. To
@@ -5377,7 +5342,7 @@ and merchants.]
 
 
 Of the means for establishing regular communication and frequent
-and permanent mercantile relations between EspaÒa and the Filipinas
+and permanent mercantile relations between Espa√±a and the Filipinas
 Islands.
 
 [The writer urges the necessity of more interest and care for the needs
@@ -5395,7 +5360,7 @@ unite to carry on this work, partly for their own profit, partly as a
 matter of patriotism. "The Filipinas Islands ought to be the center of
 the Spanish government's power in Asia, the great market for Spanish
 commerce," and the source of enormous revenues to the Spanish treasury;
-they should be to EspaÒa what India is to England, and are even more
+they should be to Espa√±a what India is to England, and are even more
 capable, by their natural endowments, of being a source of power
 and opulence to the mother country. Spanish commerce is being greatly
 injured by the restrictions laid upon trade with the countries of Asia,
@@ -5411,7 +5376,7 @@ colonies, while he censures Spain's negligence and folly in regard
 to Filipinas, and her apathy in allowing foreign nations to seize
 her commerce. The royal decree of January 10, 1820, although aiding
 Philippine commerce only as a temporary measure, has already done much
-for the islands; their commerce with EspaÒa has placed in circulation
+for the islands; their commerce with Espa√±a has placed in circulation
 considerable quantities of capital, and has increased the products of
 agriculture and the exportation of these from Manila to such a degree
 that their value has risen to almost double what it was before. This
@@ -5434,7 +5399,7 @@ latter of these is not practicable for the sole lading of a vessel;
 while if the sugar crop should fail, those merchants are left without
 other resource, to say nothing of the uncertainty in prices caused by
 that in the number of foreign customers who will arrive at Manila. The
-Spanish government, therefore, "should open to the commerce of EspaÒa
+Spanish government, therefore, "should open to the commerce of Espa√±a
 with Filipinas a wider range of objects in all the productions of India
 and China, both natural and industrial, in which commerce can engage
 in speculation and with which it can furnish cargoes for its ships;"
@@ -5447,7 +5412,7 @@ on foreign goods carried by them a duty of ten per cent be paid,
 and five per cent on arrival at Manila. That returns from these
 consignments which consist in products of Filipinas shall be free
 from any duties or imposts whatsoever, at either end of the voyage
-or on their circulation in EspaÒa. That ships may complete their
+or on their circulation in Espa√±a. That ships may complete their
 cargoes at Manila, if they wish, with any products of India, China,
 and other Asiatic countries, to the extent of 30 toneladas of lading
 for every 100 toneladas of Philippine products carried in the vessel;
@@ -5457,13 +5422,13 @@ at Manila as shown by the official registers. Any ship-owner who shall
 have carried only Spanish goods to Filipinas and Philippine products
 on the return trip shall be given the right to make another voyage
 to the ports of India or China, carrying the goods most suitable
-for those markets and returning to EspaÒa with white cotton stuffs
+for those markets and returning to Espa√±a with white cotton stuffs
 and other goods at their pleasure. In these latter voyages, Spanish
 products carried to Asia shall be exempt from all duties; and foreign
 products carried thither shall pay a duty of ten per cent on the values
-in the general tariffs; and Asiatic goods brought back to EspaÒa shall
+in the general tariffs; and Asiatic goods brought back to Espa√±a shall
 pay the same rate on the first cost in Asia, as shown by the original
-invoices. That silver may be freely exported from EspaÒa for all these
+invoices. That silver may be freely exported from Espa√±a for all these
 trading expeditions, by paying two per cent. And that the shipments
 of moneys due from the colonial revenues to the Spanish government
 be made through the Spanish ships which shall be at Manila at the
@@ -5498,7 +5463,7 @@ laws, and philosophy should, I am forced to say, be abolished, on
 account of the abuse which is made of the knowledge gained in those
 branches of learning; and in their places be substituted chairs of
 agriculture, botany, mineralogy, arts, and commerce--throwing open
-the colleges and universities of EspaÒa to the natives of Filipinas
+the colleges and universities of Espa√±a to the natives of Filipinas
 who desire to cultivate the former branches. In the laws which
 regulate law-suits, in the tariffs, in the penalties--in short, in
 all which has been adopted from other countries and another condition
@@ -5531,7 +5496,7 @@ antagonize the security and progress of the Filipinas Islands; and
 your Excellency will recognize, by the irrefutable facts which I
 have here set down, that in that colony there exist the elements
 necessary for it to render itself prosperous, and to distribute
-its wealth throughout EspaÒa, increasing the glory and power of her
+its wealth throughout Espa√±a, increasing the glory and power of her
 sovereign. Your Excellency desires radical measures of reform, and
 solidly-grounded plans for prosperity, because you recognize that
 this is the great art of government and of political economy. I have
@@ -5559,7 +5524,7 @@ MANUEL BERNALDEZ PIZARRO
 
 
 
-[Here follows a "rÈsumÈ of the measures proposed in this memorial,"
+[Here follows a "r√©sum√© of the measures proposed in this memorial,"
 which we have already presented by sections, at the end of each subject
 treated. At the end is a list of the items of estimated increase in
 the public revenues of the islands provided the reforms advocated by
@@ -5574,9 +5539,9 @@ observation, being actively engaged in commerce from Manila throughout
 the Philippine archipelago, in China, in all the foreign colonies
 of India, and on the Pacific coasts of America; and that he has
 written this paper "in the short time since he knew the charge given
-to SeÒor Bernaldez." He sends it to the minister to be laid before
+to Se√±or Bernaldez." He sends it to the minister to be laid before
 "the junta extraordinaria (or special committee) which at that time
-was considering the judicious informatory report of the auditor SeÒor
+was considering the judicious informatory report of the auditor Se√±or
 Bernaldez Folgueras in regard to the protection and preservation of
 the Filipinas Islands;" and he offers to appear before the committee
 in person, to give any further information or explanation which may
@@ -5593,7 +5558,7 @@ and recommending that the Spanish government remedy the abuses and
 negligence displayed in the administration of the colony, and the
 enormous and extravagant expenditure of funds in the wars against
 those pirates. This latter could be ended by effecting the conquest
-of JolÛ, Mindanao, and other centers of piracy, and establishing
+of Jol√≥, Mindanao, and other centers of piracy, and establishing
 therein military and agricultural colonies of Visayans; this,
 and the development of the natural resources of those islands,
 would stop piracy and add much to the colonial revenues. Following
@@ -5605,7 +5570,7 @@ needs not to be supplemented by slave labor, which fortunately has
 been kept out of the islands. This and other industries there can be
 promoted at the same time, by proper measures. The preservation of
 the colony cannot be left to the Indians, and six thousand men from
-EspaÒa, selected carefully, should be sent to Filipinas as soldiers
+Espa√±a, selected carefully, should be sent to Filipinas as soldiers
 and colonists, lands being bestowed on them; and with them should
 come commissioners of high standing and integrity to reform abuses
 in the colony and take measures for its benefit. Banks should be
@@ -5659,7 +5624,7 @@ authority to direct the affairs of the former independently.]
 
 [The writer proceeds to describe the character of the Tagalog natives,
 which he paints in gloomy colors.] It is impossible to define either
-the character of these Tag·los, or their morality--although it can be
+the character of these Tag√°los, or their morality--although it can be
 said that they have none; for, although in outward appearance they
 profess the Catholic religion, inwardly and in their actions they
 manifest that they follow no religion. The zeal with which the first
@@ -5669,7 +5634,7 @@ of our kings has not ceased to send to those regions has been of no
 avail, except to make of their neophytes, instead of true Catholics
 and useful members of society, a new species of men, who unite the
 slothfulness of the savages to the vices of civilized peoples. Thus
-it is that the Tag·los are fickle, vagabonds, full of superstitions,
+it is that the Tag√°los are fickle, vagabonds, full of superstitions,
 assassins, liars, licentious but without love, adroit thieves; and,
 in one word, they do not respect even the most sacred of the laws,
 divine or human. They lose no opportunity to make mischief among the
@@ -5705,7 +5670,7 @@ knows of it, obtain any satisfaction from them. The capital and its
 environs are the refuge of the more perverse, who migrate from the
 provinces and from their villages, in order not to work and to relieve
 themselves from paying the tribute. There they devote themselves to
-studies in the colleges of Santo Tomas, San JosÈ, and San Juan de
+studies in the colleges of Santo Tomas, San Jos√©, and San Juan de
 Letran, making progress in a short time, and deceiving the professors
 with their apparent ingenuousness; at the same time they are occupied
 as servants to the Spaniards and foreigners, but only nominally, since
@@ -5729,7 +5694,7 @@ only among private persons; for there have been persons in authority
 who have experienced in their own houses similar acts of insolence
 from these vicious and immoral neophytes. After these evil deeds,
 they disappear, as I have said; and in a very short time they are
-seen returning from Ilocos, Camarines, and Ceb˙, ordained as clerics,
+seen returning from Ilocos, Camarines, and Ceb√∫, ordained as clerics,
 with what sort of character may be understood--now cleansed from all
 their crimes, and absolved from guilt and penalty, to continue their
 studies in the colleges. Thus they graduate as bachelors and doctors,
@@ -5765,24 +5730,24 @@ the entrances and roads are full of gibbets on which men from Manila
 are hanged, for a warning; but, seeing that this had no effect,
 all the owners and captains of merchant ships have been compelled by
 law not to receive on their vessels more than four or six of these
-Indians." The Tag·los are free with their money, and readily lend to
+Indians." The Tag√°los are free with their money, and readily lend to
 any European whatever they may possess. They take great care of their
 fighting cocks ("who are for them actual idols"), are very temperate
 in eating and drinking, and are never seen intoxicated. They are often
 devoted to agricultural labor, and will do well in it when they are
 supplied with better methods and appliances.]
 
-[Some account is given of the Negritos and other wild tribes of LuzÛn;
+[Some account is given of the Negritos and other wild tribes of Luz√≥n;
 and it is stated that any colonist who wishes to settle among them
 will be able to succeed in any agricultural or other enterprise which
 he may undertake, if he will obtain the consent of the chiefs, pay
 the savages whom he may employ exactly what he has agreed to give,
 and not annoy them with matters of religion. As for the civilized
-Tag·los, their women are entirely different from the men; they are
+Tag√°los, their women are entirely different from the men; they are
 kind, hospitable, and industrious, and, although coquettish, are
 very modest and decorous in behavior. They sow the rice, and gather
 all the crops; roll cigars, and weave beautiful fabrics of cotton
-and abac·; and embroider beautifully, besides making hats, mats, and
+and abac√°; and embroider beautifully, besides making hats, mats, and
 many other articles. In fine, "if it were possible to put an end to
 all the men and leave only the women, or rather unite them to other
 men who would possess their good qualities and think as they do,
@@ -5813,7 +5778,7 @@ directions are given for the selection of land, the supply of water,
 cattle-raising, making of plantations, protection against storms,
 etc. An interesting account is given of the Chinese in Filipinas,
 their trade, relations with the Spaniards, the abuses in these,
-the hatred felt toward them by the Tag·los (resulting mainly from
+the hatred felt toward them by the Tag√°los (resulting mainly from
 the illicit relations of the Chinese with the Indian women), their
 mode of life, etc.; they should be compelled to devote themselves
 only to agriculture and the useful arts, and to abandon commerce and
@@ -5826,7 +5791,7 @@ of agricultural products, and have enriched both themselves and the
 Dutch; if they had been thus treated in Filipinas, that country would
 now be as prosperous and wealthy as are the Dutch colonies, and its
 trade would be as rich and extensive as that of the Dutch. As it is,
-enormous sums of money have been carried to Filipinas from EspaÒa, and
+enormous sums of money have been carried to Filipinas from Espa√±a, and
 spent in the islands, with hardly any return to the mother country;
 and the greater part of this wealth has been absorbed by the trade
 with China, and has been stored away in that country.]
@@ -5896,7 +5861,7 @@ from notes made by James A. LeRoy from Diario de las sessiones de las
 Cortes generales y extraordinarias, and other sources, and kindly
 sent by him to the Editors. For the first Cortes see also Montero
 y Vidal, Historia general, ii, pp. 388-390, 392, 396-398, 400-409,
-411-413,422-435, and Guia oficial de EspaÒa, 1813, pp. 21, 22, where
+411-413,422-435, and Guia oficial de Espa√±a, 1813, pp. 21, 22, where
 the Philippine deputies are named. For the second Cortes, see also
 Montero y Vidal, ut supra, ii, pp. 444-452, 457-462, 476-481. For
 the third Cortes, see Montero y Vidal, ut supra, ii, pp. 544, 545,
@@ -5924,23 +5889,23 @@ a provisional government known as the central governing assembly
 (Junta central), with headquarters in the south. This Junta, taking
 the necessary steps for the reorganization of government, and the
 calling of a Cortes, proceeded, on June 25, 1809, to rehabilitate the
-old Consejo de EspaÒa, and on January 29, 1810, to constitute the
+old Consejo de Espa√±a, and on January 29, 1810, to constitute the
 supreme Consejo de Regencia. The delegates to the first session of
 the Cortes, for which final orders were issued by decree of June 18,
 1810, and in which, by a decree of January 22, 1829, all the Spanish
 domain was to have equality of representation, assembled on the island
-of LeÛn during the month of August, 1810. On account of the distance
+of Le√≥n during the month of August, 1810. On account of the distance
 of the American countries and the Philippines and the impossibility of
 regularly-appointed delegates reaching Spain in time for the opening of
 the session, substitutes were chosen from residents of those countries
 then in the Peninsula. Consequently, at the opening of the Cortes,
-September 24, 1810, the Philippines were represented by Pedro PÈrez
+September 24, 1810, the Philippines were represented by Pedro P√©rez
 de Tagle, an officer in the corps of the Spanish Royal Guards, and
-Dr. JosÈ Manuel Couto, prebend of La Puebla. The election at Manila
+Dr. Jos√© Manuel Couto, prebend of La Puebla. The election at Manila
 (held by order of the Regency, February 14, 1810), resulted in the
 choice of Ventura de los Reyes, a wealthy merchant of Manila, and on
 the whole an active representative, who, despite his seventy years,
-set out immediately for C·diz. The two substitutes above mentioned
+set out immediately for C√°diz. The two substitutes above mentioned
 took but little part in affairs. [155]
 
 Several general measures enacted by the Cortes touch the Philippines
@@ -5986,7 +5951,7 @@ propositions submitted by Reyes on February 11, 1813, to the effect
 that the determined suppression of the Acapulco galleon be published,
 and in its place those engaged in that commerce be allowed to fit up
 private vessels at their own cost to continue the trade with Nueva
-EspaÒa, through the ports of Acapulco, San Blas, or any other, under
+Espa√±a, through the ports of Acapulco, San Blas, or any other, under
 the old terms of 500,000 pesos for the outgoing voyage and 1,000,000
 for the return, and a lowering of the duties by one-half. The matter
 was debated in the presence of the secretaries of the Peninsula and
@@ -5996,20 +5961,20 @@ a liberal policy for the Philippines, the decree suppressing the
 galleon was finally issued on September 14, 1813. [162]
 
 The special session of the Cortes closed on the date of the decree
-above, and the regular session opened at C·diz, either in the latter
+above, and the regular session opened at C√°diz, either in the latter
 part of September or the first part of October. On October 4, the
-last meeting was held in C·diz and opened again in the island of LeÛn
+last meeting was held in C√°diz and opened again in the island of Le√≥n
 because of yellow fever in the former place. On the eighth of that
 month, Reyes presented three plans for the benefit of the agriculture,
 industry, commerce, and navigation of the Philippines. On the
-twenty-ninth of October meetings at the island of LeÛn were suspended,
+twenty-ninth of October meetings at the island of Le√≥n were suspended,
 and resumed again in Madrid, on January 15, 1814. Fernando VII,
 released by order of Napoleon, after the disastrous campaign conducted
 by Joseph in Spain, abolished the Cortes by his decree of May 4, 1814,
 and on the publication of this decree in Madrid, on the thirteenth
 many of the members of the Cortes were arrested, all the acts of the
 constitutional government were declared null and void, the Inquisition
-reÎstablished, and absolutism was again proclaimed in Spain. On the
+re√´stablished, and absolutism was again proclaimed in Spain. On the
 publication of the decree in the Philippines, the Ilocans, deeming it
 only a ruse of the governor, revolted, sacked churches and convents,
 and destroyed public records. Their insurrection was directed chiefly
@@ -6025,14 +5990,14 @@ VII was compelled to convoke the Cortes by his decree of March 6,
 for 1820-1821 was formally summoned, the colonies being allowed to be
 represented by substitutes pending the arrival of regularly-elected
 representatives. At the first preliminary meeting of June 26, the two
-Philippine substitutes, [165] Jose MarÌa Arnedo and Manuel Felix Camus
+Philippine substitutes, [165] Jose Mar√≠a Arnedo and Manuel Felix Camus
 y Herrera, presented their credentials. The Cortes were declared open
 on July 9. Matters of trade and commerce, involving the question of
 duties, [166] were of paramount interest, so far as the Philippines
 are concerned, although the matters of elections, revenues, and
 ecclesiastical affairs were debated at some length. From July 18 to
 October 19, were considered at intervals the privileges and monopolies
-of the CompaÒÌa de Filipinas, which were abolished by a decree of
+of the Compa√±√≠a de Filipinas, which were abolished by a decree of
 the latter date. [167] Several decrees and orders of November 9 (on
 which date the first session of the Cortes ended), affecting trade
 and looking toward the development of the colonies, were issued. [168]
@@ -6087,7 +6052,7 @@ for the purpose of study.
 
 At the first preliminary meeting of the special session, held
 October 1, 1822, Francisco Bringas y Taranco, ex-alcalde-mayor of
-Ilocos, the deputy elect for Nueva Segovia, Manuel S·enz de Vizmanos,
+Ilocos, the deputy elect for Nueva Segovia, Manuel S√°enz de Vizmanos,
 senior accountant of the Tribunal de Cuentas of the Philippines, and
 Posada, presented their credentials, which were approved on October 3,
 although Posada was again contested. At the preliminary meeting held
@@ -6099,14 +6064,14 @@ been taken by the Philippine representatives.
 The regular session opened on March 1, 1823, at Madrid, but the
 absolutists gaining control through the invasion of the French,
 nothing was done in this session, and the Cortes, which had been
-compelled to flee first to Sevilla and then to C·diz, were finally
+compelled to flee first to Sevilla and then to C√°diz, were finally
 dissolved by Fernando on October 1, who declared all their acts from
 March 7, 1820, to that time null and void. Posada was one of those
 condemned by Fernando after his entrance into Madrid, for his liberal
 tendencies. By decree of December 25, 1823, Fernando communicated
-to America and the Philippines the reÎstablishment of absolutism,
+to America and the Philippines the re√´stablishment of absolutism,
 the suppression of the Constitution of 1812, and the abolition of
-all the organisms inaugurated during the constitutional rÈgime. [176]
+all the organisms inaugurated during the constitutional r√©gime. [176]
 
 
 
@@ -6115,15 +6080,15 @@ The Cortes of 1834-1837
 The third Cortes of 1834-37 were called after the death of Fernando
 VII, which occurred September 29, 1833, when the liberals again
 demanded concessions and a constitutional government. [177] The ship
-"Santa Ana" sailing from C·diz, August 28, 1834, reached Manila with
+"Santa Ana" sailing from C√°diz, August 28, 1834, reached Manila with
 official orders and the summons to the Cortes; [178] which having
 been called for July 24, 1834 (by decree of May 10), had already
 convened. The election for the Philippine representatives (March 1,
-1835) [179] resulted in the choice of Brigadier AndrÈs GarcÌa Camba,
+1835) [179] resulted in the choice of Brigadier Andr√©s Garc√≠a Camba,
 [180] and Licentiate Juan Francisco Lecaros (or Lecaroz) [181]--the
-first a resident of Manila (formerly a resident in Nueva EspaÒa),
+first a resident of Manila (formerly a resident in Nueva Espa√±a),
 and the second the Madrid agent for the Manila Ayuntamiento. Camba
-sailed for C·diz on the "Santa Ana" on March 21, and arrived in
+sailed for C√°diz on the "Santa Ana" on March 21, and arrived in
 Spain August 20, 1835, after the end of the first session of the
 Cortes. That session imposed a special tax on certain classes of
 financial documents, which affected all the Spanish domains; and
@@ -6167,8 +6132,8 @@ the mutiny of La Granja) ordered the publication of the Constitution of
 1812 until the Cortes clearly manifested their will or drew up a new
 constitution. Another decree of August 21 called the general Cortes
 for October 24, in accordance with the rules of the Constitution of
-1812; and one of September 28 suppressed the Real Consejo de EspaÒa
-È Indias. At the secret session of the Cortes on January 16, 1837, a
+1812; and one of September 28 suppressed the Real Consejo de Espa√±a
+√© Indias. At the secret session of the Cortes on January 16, 1837, a
 proposition for special laws to govern Ultramar was made, being passed
 to the proper committee. On February 10 the committee having in charge
 the drafting of a new constitution, presented a plan for the provinces
@@ -6195,7 +6160,7 @@ LIST OF ARCHBISHOPS OF MANILA
 
 
 The authorities used in the following chronological list of the
-archbishops of Manila are as follows: San Antonio, Chronicas; Z˙Òiga,
+archbishops of Manila are as follows: San Antonio, Chronicas; Z√∫√±iga,
 Historia general; Delgado, Historia; Buzeta y Bravo, Diccionario;
 Ferrando y Fonseca, Historia de los padres dominicos; Montero y Vidal,
 Historia general; various copies of the Guia; the Reports of the
@@ -6203,7 +6168,7 @@ Philippine Commission; and some minor works.
 
 SALAZAR, DOMINGO DE, O.P.--Born at Rioja, in 1512; takes Dominican
 habit at convent of San Esteban, Salamanca; becomes master in theology;
-missionary in Nueva EspaÒa for 40 years; goes to Spain as procurator
+missionary in Nueva Espa√±a for 40 years; goes to Spain as procurator
 general for his province, and preaches before Felipe II, in favor of
 the Indians; proposed as first bishop of the Philippines in 1578 and
 consecrated at Madrid, 1579; arrives at Manila in March, 1581, with
@@ -6218,32 +6183,32 @@ ecclesiastical and secular circles; royal Audiencia founded partly
 on account of his petition; defends natives against encomenderos;
 aids greatly in the building of the cathedral and in the church of the
 Dominicans, as well as the hospital for the natives, and the college
-of Santa Potenciana; quarrels with Gomez Perez DasmariÒas, by whom
+of Santa Potenciana; quarrels with Gomez Perez Dasmari√±as, by whom
 the Audiencia had been suppressed in obedience to royal commands;
 goes to Spain in 1591 (leaving his companion Salvatierra in charge),
-to seek royal redress, and secures reÎstablishment of Audiencia,
+to seek royal redress, and secures re√´stablishment of Audiencia,
 and complete royal favor, although opposed by the governor and the
 Augustinians; procures elevation of Manila into a metropolitan see,
 with three suffragan churches; designated as first archbishop by
-king, but dies Dec. 4, 1594, at college of Santo Tom·s at Madrid,
+king, but dies Dec. 4, 1594, at college of Santo Tom√°s at Madrid,
 before the papal bulls arrive, aged 82; hot-headed and impetuous,
 and apt to meddle too freely in secular affairs, but a worker. See
 the many documents in our series by Salazar, and those containing
 matter in regard to him.
 
-SANTIBA—EZ, IGNACIO, O.S.F.--Native of B˙rgos; guardian of the province
-of B˙rgos, and later provincial; preacher to Felipe II; presented as
-first archbishop, June 17, 1595; consecrated in Nueva EspaÒa in 1596;
+SANTIBA√ëEZ, IGNACIO, O.S.F.--Native of B√∫rgos; guardian of the province
+of B√∫rgos, and later provincial; preacher to Felipe II; presented as
+first archbishop, June 17, 1595; consecrated in Nueva Espa√±a in 1596;
 delays going to the Philippines until 1598 because the bulls of the
 pallium are not correct in all details; takes possession of his see,
 May 28, 1598; immediately erects the cathedral into a metropolitan
-church, with three suffragan sees (Ceb˙, with Pedro de Agurto, O.S.A.,
-as bishop; Nueva C·ceres, with Miguel Benavides, O.P., as bishop;
+church, with three suffragan sees (Ceb√∫, with Pedro de Agurto, O.S.A.,
+as bishop; Nueva C√°ceres, with Miguel Benavides, O.P., as bishop;
 and Nueva Segovia, with Francisco Ortega, O.S.A., as bishop), by
 virtue of the bull of Clement VII, dated Aug. 14, 1595; Audiencia
-reÎstablished during his time; dies from dysentery, Aug. 14, 1598,
+re√´stablished during his time; dies from dysentery, Aug. 14, 1598,
 after term of 2 months and 17 days; buried in cathedral; funeral
-sermon preached by Pedro de Agurto, O.S.A., bishop of Ceb˙.
+sermon preached by Pedro de Agurto, O.S.A., bishop of Ceb√∫.
 
 VACANT SEE.
 
@@ -6255,7 +6220,7 @@ mission in 1587; spends a short time in the Chinese missions, whence
 he is exiled; helps promote building of Chinese hospital in Manila;
 elected procurator general for his order and accompanies Salazar to
 Spain; there gains three missions, and an increase in the commerce;
-elected first bishop of Nueva Segovia; consecrated in Nueva EspaÒa,
+elected first bishop of Nueva Segovia; consecrated in Nueva Espa√±a,
 in 1597; arrives at Manila, 1598; takes possession of bishopric, 1599;
 presented as archbishop, 1601; takes possession of Manila see, 1603,
 the king defraying the cost of the bulls, on account of Benavides's
@@ -6266,20 +6231,20 @@ response to a royal decree ordering all natives to take a new oath of
 allegiance to Spain, takes possession of all the natives in the name
 of the crown of Castilla and Leon; dies on St. Anne's day, July 26,
 1605; buried in Dominican church; leaves bequest for foundation of
-Dominican college (San Tom·s); a generous alms-giver. See documents
-on the foundation of San Tom·s.
+Dominican college (San Tom√°s); a generous alms-giver. See documents
+on the foundation of San Tom√°s.
 
 VACANT SEE.
 
-VAZQUEZ DE MERCADO, DR. DIEGO--Native of ArÈvalo, in Castilla la Vieja;
+VAZQUEZ DE MERCADO, DR. DIEGO--Native of Ar√©valo, in Castilla la Vieja;
 related to the family of the Ronquillos; obtains degree licentiate
 in canons in university of Mexico; becomes secular priest, goes to
 Philippines with Salazar, where he becomes his lawyer and acts as dean
-of Manila cathedral for sixteen years; in 1597 goes to Nueva EspaÒa,
-to assume the curacy of Acapulco; in Nueva EspaÒa given the degree
+of Manila cathedral for sixteen years; in 1597 goes to Nueva Espa√±a,
+to assume the curacy of Acapulco; in Nueva Espa√±a given the degree
 of Doctor of canon law from the university of Mexico; resigns his
-office as dean of Manila during the sojourn of SantibaÒez in Nueva
-EspaÒa; in 1600, presented as bishop of Mechoac·n, where he serves
+office as dean of Manila during the sojourn of Santiba√±ez in Nueva
+Espa√±a; in 1600, presented as bishop of Mechoac√°n, where he serves
 three years; Oct. 22, 1603, presented as first bishop of Yucatan,
 and receives necessary bulls in Campeche; consecrated in Mexico,
 Jan. 13, 1604, and governs his bishopric for three years; in 1608,
@@ -6299,10 +6264,10 @@ GARCIA SERRANO, MIGUEL, O.S.A.--Native of Madrid or of Chinchilla;
 goes to the Philippines in one of the early missions; becomes prior
 of Manila and provincial of his province, and is elected procurator
 to Spain; there presented as bishop of Nueva Segovia; consecrated in
-Nueva EspaÒa in 1616; goes to the Philippines the same year and governs
+Nueva Espa√±a in 1616; goes to the Philippines the same year and governs
 his bishopric for two and one-half years, presented as archbishop,
 in 1618; takes possession of his see, Aug. 24, 1619, having received
-the pallium at the church of Nuestra SeÒora de Guia, Aug. 1 of that
+the pallium at the church of Nuestra Se√±ora de Guia, Aug. 1 of that
 year; during his term, the nuns of St. Clare arrive at Manila, whom
 he aids greatly; obtains brief (1625) from Urban VIII, allowing the
 feast of Corpus Christi to be celebrated at a more opportune season,
@@ -6329,7 +6294,7 @@ holds many posts in the order, and is finally sent to Spain as
 procurator; on arrival at Mexico, finds decree appointing him bishop
 of Nueva Segovia; proceeds to Spain, where he obtains a mission,
 and his bulls confirming his appointment; returns to the Philippines
-in 1627; consecrated at Ceb˙, in 1628; governs his bishopric for 7
+in 1627; consecrated at Ceb√∫, in 1628; governs his bishopric for 7
 years; tries to obtain the government of the archbishopric of Manila
 in vacant see (see above); presented as archbishop, Jan. 16, 1632;
 takes possession of see, June 23, 1635; during his term quarrels with
@@ -6345,7 +6310,7 @@ and too unbending.
 VACANT SEE.--Ecclesiastical cabildo governs because Arce renounces
 his right to do so.
 
-MONTERO DE ESPINOSA, DR. FERNANDO.--Native of B˙rgos; becomes secular
+MONTERO DE ESPINOSA, DR. FERNANDO.--Native of B√∫rgos; becomes secular
 priest; doctor of theology in Salamanca University, and holds other
 offices; first palace cura of Felipe IV, when royal chapel was erected
 into a parish church; a noted preacher; administrator of the hospital
@@ -6370,7 +6335,7 @@ is put into force.
 
 POBLETE, DR. MIGUEL DE.--Secular priest; born in Mexico, in 1603; a
 professor in the university; occupies some of the best ecclesiastical
-posts in Nueva EspaÒa; resigns the bishopric of Nicaragua in 1644;
+posts in Nueva Espa√±a; resigns the bishopric of Nicaragua in 1644;
 the decree of his presentation as archbishop of Manila, dated May,
 1648; keeps decree hid for more than a month before showing it;
 consecrated at the archiepiscopal palace at Mexico, Sept. 9, 1650;
@@ -6397,17 +6362,17 @@ Jan. 30, 1668; 64 years old at time of death; much regretted.
 
 VACANT SEE.--The ecclesiastical cabildo governs the archbishopric.
 
-LOPEZ, JUAN, O.P.--Born in Martin MuÒoz in Castilla la Vieja; professes
+LOPEZ, JUAN, O.P.--Born in Martin Mu√±oz in Castilla la Vieja; professes
 in Dominican convent of San Esteban of Salamanca; collegiate at
 college of San Gregorio at Valladolid; goes to Philippines in 1643
-as missionary; lectures on theology in the college of Santo Tom·s;
-in 1658, goes to Nueva EspaÒa to recover health; following year sent
+as missionary; lectures on theology in the college of Santo Tom√°s;
+in 1658, goes to Nueva Espa√±a to recover health; following year sent
 title as definitor and procurator general; goes to Spain by way of
 France, in 1662, and thence to Rome; general of order gives him the
 degree of master of theology; at Rome receives decree of Felipe IV
-(Dec., 1662) presenting him as bishop of Ceb˙; receives confirmation
+(Dec., 1662) presenting him as bishop of Ceb√∫; receives confirmation
 from pope, Apr. 23, 1663; gathers a band of 40 missionaries, and on
-reaching Nueva EspaÒa is consecrated at Mechoac·n, Jan. 4, 1665; takes
+reaching Nueva Espa√±a is consecrated at Mechoac√°n, Jan. 4, 1665; takes
 possession of bishopric, Aug. 31, 1665; has troubles in bishopric,
 and proceeds to excommunications, unjustifiably, so that it becomes
 necessary for the royal Audiencia to intervene; during term as bishop,
@@ -6431,7 +6396,7 @@ VACANT SEE.--Dean and cabildo rule the archbishopric.
 PARDO, FELIPE, O.P.--Born in Valladolid of noble parents; takes
 habit in convent of San Pablo at Valladolid; there becomes master of
 students; goes as missionary to Philippines in 1648; lector and rector
-in university of Santo Tom·s in Manila; holds many posts in his order,
+in university of Santo Tom√°s in Manila; holds many posts in his order,
 his first term as provincial ending in 1665; and his second in 1677;
 twice commissary of Inquisition; presented as archbishop, by royal
 decree of May 30, 1676; takes possession of archbishopric, at age of
@@ -6440,7 +6405,7 @@ king; requisite bulls reach him only in 1681; consecrated, Oct. 28,
 1681, in Manila cathedral; makes public entry, Nov. 1; during his
 term, the first governor of the Marianas arrives; arrival of auxiliary
 bishop de partibus Gines de Barrientos, O.P., with title of bishop
-of Troya; takes missions in LuzÛn from Recollects, which he gives
+of Troya; takes missions in Luz√≥n from Recollects, which he gives
 to the Dominicans, giving to the Recollects the missions of Mindoro
 in exchange (see the documents in our series referring to this);
 has conflicts with the governor, other orders, and ecclesiastical
@@ -6467,7 +6432,7 @@ from arrest, and ask aid of the governor ad interim.
 CAMACHO Y AVILA, DR. DIEGO.--Secular priest; native of Badajoz;
 collegiate-mayor in the Insigne de Cuenca of Salamanca; canon of the
 church of Badajoz; presented as archbishop, Aug. 19, 1696; consecrated
-at La Puebla in Nueva EspaÒa; takes possession of his see, Sept. 13,
+at La Puebla in Nueva Espa√±a; takes possession of his see, Sept. 13,
 1697; the papal legate Tournon comes to the islands during his term,
 and Camacho's connection with him leads to complications with the
 Spanish government; a strong champion of the episcopal visit of
@@ -6479,7 +6444,7 @@ spends on it more than 40,000 pesos; founds seminary of San Clemente,
 which is thrown open to foreigners; because of this and his connection
 with Tournon, as well as indirectly because of his opposition to the
 regulars, transferred by royal order to the bishopric of Guadalajara,
-in Nueva EspaÒa; takes possession of this, Mar. 25, 1706; visits
+in Nueva Espa√±a; takes possession of this, Mar. 25, 1706; visits
 bishopric several times; dies, in 1712; in will orders honors to be
 celebrated for him in Manila cathedral; these celebrated, Oct. 26,
 1713, by Diego de Gorospe Yrala bishop of Nueva Segovia. See the
@@ -6487,7 +6452,7 @@ various documents regarding the Camacho controversy in our series.
 
 VACANT SEE--Cabildo governs until the arrival of the following.
 
-CUESTA, FRANCISCO DE LA, Ordr of San GerÛnimo.--Native of Colmenar,
+CUESTA, FRANCISCO DE LA, Ordr of San Ger√≥nimo.--Native of Colmenar,
 near Madrid; master in theology; preacher to the king; presented as
 archbishop in 1706; consecrated in Mexico, Aug. 12, 1707; Clement
 XI decides in favor of episcopal visit of regular parish priests,
@@ -6497,7 +6462,7 @@ imprisoned by Governor Bustamante; Governor Bustamante assassinated
 Oct. 11, 1719, and Cuesta freed and becomes governor ad interim,
 as all the auditors refuse the post; governs islands until July 24,
 1721; all three bishoprics vacant during part of his term; transferred
-to the bishopric of Mechoac·n, in Nueva EspaÒa, because of the death
+to the bishopric of Mechoac√°n, in Nueva Espa√±a, because of the death
 of Bustamante; arrives at Acapulco, Jan. 11, 1724; takes charge of
 diocese, April 18; dies May 30 (Buzeta and Bravo say, May 31), 1724,
 at age of 63; buried in his church.
@@ -6506,11 +6471,11 @@ VACANT SEE.--Archbishopric governed by ecclesiastical cabildo; house
 for girls built.
 
 BERMUDEZ GONZALEZ DE CASTRO, DR. CARLOS.--Secular; native of Puebla de
-los Angeles, Nueva EspaÒa; licentiate and doctor of laws; professor
+los Angeles, Nueva Espa√±a; licentiate and doctor of laws; professor
 in canons in the university of Mexico; holds office in Inquisition
 of Mexico, and other high offices in that archbishopric; presented as
 archbishop of Manila; in 1722; consecrated, June 17, 1725; compelled to
-remain in Nueva EspaÒa three years longer for lack of a vessel sailing
+remain in Nueva Espa√±a three years longer for lack of a vessel sailing
 to the Philippines; leaves Mexico City, Mar. 5, 1728, and embarks
 at Acapulco, Mar. 27; goes ashore at Marianas, where he baptizes an
 infant; received privately in Manila, July 29, 1728; receives pallium,
@@ -6524,13 +6489,13 @@ VACANT SEE.--Ecclesiastical cabildo governs the archbishopric.
 
 ANGEL RODRIGUEZ, JUAN, Trinitarian.--Born in Medina del Campo;
 master in sacred theology; fills various posts in Spanish cathedrals;
-professor in Salamanca and Alcal· universities; appointed confessor of
-Diego Morcillo Rubio de AuÒon, archbishop of Lima; arrives at Lima,
+professor in Salamanca and Alcal√° universities; appointed confessor of
+Diego Morcillo Rubio de Au√±on, archbishop of Lima; arrives at Lima,
 April 17, 1731; presented as archbishop of Manila, May 18, 1731;
 obtains bulls, Dec. 17, and council decrees, dated Feb. 29, 1732,
 on May 25, 1732; compelled to remain in Lima until Jan. 2, 1736,
 as no ship is allowed to sail to Acapulco; embarks at Acapulco,
-Apr. 17, 1736; lands at Samar, Aug. 30; reaches Nueva C·ceres,
+Apr. 17, 1736; lands at Samar, Aug. 30; reaches Nueva C√°ceres,
 Oct. 4; consecrated there by bishop Dr. Felipe de Molina, Nov. 23;
 receives pallium, Nov. 26; takes possession of see through Dean Luis
 Rico, Jan. 23, 1737, and makes public entry on the twenty-fourth;
@@ -6557,20 +6522,20 @@ has charge of the Chinese; on the arrival of the new governor, Obando,
 presents the decree, but it has no effect because of various disputes
 between the governor and archbishop; demands that Arrechedera hand over
 the government of the islands to him and even appeals to the court;
-quarrels with Obando's successor, Governor ArandÌa, over questions
-of etiquette; dies, May 28, 1755 (Z˙Òiga says May 29).
+quarrels with Obando's successor, Governor Arand√≠a, over questions
+of etiquette; dies, May 28, 1755 (Z√∫√±iga says May 29).
 
 VACANT SEE.--Dean and ecclesiastical cabildo in charge of the
 archbishopric.
 
-ROJO DEL RIO Y VIEYRA, MANUEL ANTONIO.--Native of Tula, Nueva EspaÒa;
+ROJO DEL RIO Y VIEYRA, MANUEL ANTONIO.--Native of Tula, Nueva Espa√±a;
 canon and provisor of Mexico; consecrated as archbishop of Manila
-in Nueva EspaÒa, in 1758; takes possession of his see, July 22,
+in Nueva Espa√±a, in 1758; takes possession of his see, July 22,
 1759; demands charge of government of islands from Bishop Lino
 de Espeleta, governor ad interim, but latter holds command until
 arrival of decree from Spain transferring the command to Rojo;
 immediately settles Villacorta matter and quashes case against the
-Spanish mestizo OrendaÌn; British besiege and capture Manila, 1762;
+Spanish mestizo Orenda√≠n; British besiege and capture Manila, 1762;
 Rojo made virtually a prisoner; has disputes with Anda; dies, Jan. 30,
 1764, and given military burial by English; see VOL. XLIX.
 
@@ -6583,7 +6548,7 @@ of Aragon; appointed archbishop, in 1767; consecrated in Spain,
 and arrives at Manila in 1767 via Cape of Good Hope; immediately
 establishes mission and preaches rigorously against all the vices for
 nine days; adorns cathedral; presides over council by which bishop of
-Nueva C·ceres exiled to his bishopric; makes most vigorous attempts
+Nueva C√°ceres exiled to his bishopric; makes most vigorous attempts
 to enforce episcopal visit of regular parish priests of any archbishop
 in history of the Philippines; bases his action on the bull Firmandis
 of Benedict XIV, dated Nov. 6, 1744, and the bull of Feb. 24, 1745,
@@ -6593,11 +6558,11 @@ Dominicans; all the other orders resist; although the governor commands
 the orders to submit to the visit, and strives to uphold the royal
 patronage, the orders disregard him; many parishes provided with native
 secular priests by the archbishop in 1768, especially the parishes
-of the Pari·n, Binondo and the Province of Bata·n, which had been
+of the Pari√°n, Binondo and the Province of Bata√°n, which had been
 administered by the Dominicans (which regulars claim was an irreparable
 injury); regulars complain to king, and archbishop directs energetic
 representation against them, May 10, 1768; Jesuit expulsion occurs
-during his term; RaÛn is finally gained by the orders and yields; when
+during his term; Ra√≥n is finally gained by the orders and yields; when
 his successor Anda arrives, the archbishop appeals to him for aid,
 and although the latter is unwilling to go as far as Santa Justa y
 Rufina, he aids him; provincial council called at Manila for May 19,
@@ -6608,15 +6573,15 @@ secularized as they fall vacant; secularization ordered suspended by
 royal decree of Dec. 11, 1776; archbishop dies at Manila, Dec. 15,
 1787; strong character, vigorous mind, impetuous; regular historians
 assert that he was influenced by the French encyclopedists and by the
-ministers of C·rlos III. See Pardo de Tavera's Biblioteca filipina
+ministers of C√°rlos III. See Pardo de Tavera's Biblioteca filipina
 (Washington, 1903), for various writings of Santa Justa y Rufina;
 and our series for some account of his time.
 
 VACANT SEE.--Ecclesiastical cabildo takes charge of the archbishopric.
 
-ORBIGO Y GALLEGO, ANTONIO DE, O.S.F.--Born at Orbigo in LeÛn, in 1729;
+ORBIGO Y GALLEGO, ANTONIO DE, O.S.F.--Born at Orbigo in Le√≥n, in 1729;
 takes Franciscan habit at Priego; goes to Philippines as preacher and
-confessor, in 1759; elected bishop of Nueva C·ceres while procurator
+confessor, in 1759; elected bishop of Nueva C√°ceres while procurator
 for his order in Spain, in 1779; takes possession of his see, in 1780;
 chosen archbishop of Manila, in 1789, and takes possession of his
 see Oct. 15 through the procurator, capitular vicar, and archdeacon,
@@ -6631,9 +6596,9 @@ VACANT SEE.--Ecclesiastical cabildo assumes control of the
 archbishopric.
 
 SALAMANCA, IGNACIO.--Native of Manila; dean of Manila cathedral;
-becomes bishop of Ceb˙, Sept. 28, 1789; consecrated in Manila,
+becomes bishop of Ceb√∫, Sept. 28, 1789; consecrated in Manila,
 and goes to bishopric in 1794; presented as archbishop of Manila,
-but dies at Ceb˙, Feb. 1802, before having received the despatches
+but dies at Ceb√∫, Feb. 1802, before having received the despatches
 of his new dignity.
 
 VACANT SEE.--The ecclesiastical cabildo rules the archbishopric
@@ -6641,11 +6606,11 @@ continuously from the death of Orbigo y Gallego to the coming of
 Zulaibar, as Salamanca does not actually hold the office.
 
 ZULAIBAR, JUAN ANTONIO, O.P.--Born in Vizcaya in 1753; takes habit
-at age of 16 in convent of San Pablo at B˙rgos; receives degree of
-doctor at university of ¡vila; professor of theology at university
-of Alcal· for 7 years; presented as archbishop of Manila, Aug. 1803;
+at age of 16 in convent of San Pablo at B√∫rgos; receives degree of
+doctor at university of √Åvila; professor of theology at university
+of Alcal√° for 7 years; presented as archbishop of Manila, Aug. 1803;
 arrives at Manila, Sept. 2, 1804; consecrated at Manila, by Domingo
-Collantes, bishop of Nueva C·ceres, July 14, 1805 (Ferrando; Buzeta
+Collantes, bishop of Nueva C√°ceres, July 14, 1805 (Ferrando; Buzeta
 and Bravo say Sept. 8, 1804); voting member of vaccination board
 formed at Manila, Dec. 20, 1806, by royal order of Sept. 1, 1803;
 endows seminary of his diocese; dies Mar. 4, 1824.
@@ -6655,7 +6620,7 @@ archbishopric.
 
 DIEZ, HILARION, O.S.A.--Born at Valladolid, 1761; takes habit at an
 early age in the same city; in the Philippines serves as parish priest
-in several Tag·log villages, and becomes proficient in the Tag·log
+in several Tag√°log villages, and becomes proficient in the Tag√°log
 language; is twice prior of the Manila convent, and provincial of his
 order; his appointment as archbishop meets general approval; assumes
 charge of his see, Sept. 15, 1826; consecrated in the Augustinian
@@ -6667,7 +6632,7 @@ SEGUI, JOSE, O.S.A.--Born at Camprodon, in bishopric of Gerona,
 Oct. 3, 1773; takes habit at Seo de Urgel; goes to Philippines in 1795;
 missionary for 20 years in China; after his return to the Philippines,
 serves as definitor and procurator general for 12 years; auxiliary
-to his predecessor and made bishop in partibus of HierocesarÈa, July
+to his predecessor and made bishop in partibus of Hierocesar√©a, July
 27, 1829; elevated to the metropolitan see by Pius VIII, July 5,
 1830; consecrated at the Manila Augustinian church, Oct. 28, 1830;
 receives pallium, Sept. 14, 1831, from the bishop of Ilocos whither
@@ -6689,13 +6654,13 @@ consecrated, Jan. 31, 1847; receives pallium, Feb. 2, 1847, and makes
 public entrance into Manila, Feb. 7; receives great cross of Isabel
 the Catholic; dies, Apr. 18, 1862; laborious, prudent, and economical.
 
-VACANT SEE.--The archbishopric is governed by Dr. Pedro Pel·ez,
+VACANT SEE.--The archbishopric is governed by Dr. Pedro Pel√°ez,
 a Filipino secular priest, who is elected by the ecclesiastical
 cabildo as capitular vicar.
 
 MELITON MARTINEZ DE SANTA CRUZ, DR. GREGORIO.--Secular; born in
-1815, in Prado-Luengo, in the diocese of B˙rgos; studies theology in
-seminary of San JerÛnimo in B˙rgos, and afterwards occupies a chair
+1815, in Prado-Luengo, in the diocese of B√∫rgos; studies theology in
+seminary of San Jer√≥nimo in B√∫rgos, and afterwards occupies a chair
 in the same seminary; receives degree of bachelor at the university
 of Valladolid, and studies in the university of Madrid, where he also
 receives degrees; acts as provisor in Palencia, for 12 years, where
@@ -6706,13 +6671,13 @@ takes possession of see, May 27, 1862; receives degree of doctor in
 jurisprudence from the University of the Philippines, Aug. 24, 1862;
 a member of the Vatican Council until its suspension in 1871; has
 dissensions with the Recollects over vacancies occurring in the Manila
-diocese; together with the secular bishops of Ceb˙ and Nueva C·ceres,
+diocese; together with the secular bishops of Ceb√∫ and Nueva C√°ceres,
 sends exposition to queen, Feb. 15, 1863, urging the right of episcopal
 visitation of the regular parish priests; asks that briefs and laws
 declaring removable ad nutum the regular curas, be left in force;
 with provincials of orders protests to governor against the Moret
 decrees, May 16, 1869; Feb. 19, 1872, publishes long pastoral letter in
-Spanish and Tag·log lamenting and condemning Cavite insurrection, and
+Spanish and Tag√°log lamenting and condemning Cavite insurrection, and
 especially the part taken in it by the Filipino clergy; resigns, 1875.
 
 VACANT SEE.--1875-1876.
@@ -6722,7 +6687,7 @@ cathedral; dies, 1889.
 
 VACANT SEE.--1889-1890.
 
-NOZALEDA, BERNARDINO, O.P.--Native of AsturÌas, of rustic parentage;
+NOZALEDA, BERNARDINO, O.P.--Native of Astur√≠as, of rustic parentage;
 originally a professor in Manila; takes possession of his diocese,
 Oct. 29, 1890; Apr. 28, and May 8, 1898, issues circulars to the
 Filipinos urging them to repel the American invaders; resides about 26
@@ -6747,7 +6712,7 @@ exaction of duties was in the hands of the royal officials, according
 to the laws of the Indias. In 1779 Basco y Vargas ordained that
 those functionaries should attend only to collecting duties from the
 ships which navigated to the coasts of Coromandel, Malabar, Bengala,
-Java, CantÛn, Acapulco, and C·diz; and that the duties proper to the
+Java, Cant√≥n, Acapulco, and C√°diz; and that the duties proper to the
 entrance or outgo of products and commodities in the inter-island
 commerce should be in charge of the director of alcabala. From this
 originated the foundation of the custom-house, it being completed
@@ -6790,7 +6755,7 @@ despatch, cited by Montero y Vidal.)
 
 [6] It may be noted that in 1809 Folgueras had, "in order to quiet the
 public anxiety" to know what was going on, published on two occasions
-a sort of gazette (called Aviso al p˙blico) of news regarding his
+a sort of gazette (called Aviso al p√∫blico) of news regarding his
 encounter and correspondence with the French in that summer. (Montero
 y Vidal, ii, pp. 390, 391.)
 
@@ -6810,7 +6775,7 @@ assistance and supervision of the curas and subordinate officials'
 were distributed in the houses--certainly one of the most shameless
 applications of the repartimiento system."
 
-[9] A note by Montero y Vidal cites JosÈ R. Trujillo, a Philippine
+[9] A note by Montero y Vidal cites Jos√© R. Trujillo, a Philippine
 official, as stating (1887) that the chief opponent and plotter against
 Gardoqui was Joaquin Cirilo de la Cajigas, the chief accountant of the
 treasury board and head of the naval bureau; he left a great fortune
@@ -6826,7 +6791,7 @@ in its session of 1820.
 the opposition of Aguilar it practically ceased its functions, its
 president at that time, the auditor Don Francisco Javier Moreno, placed
 on deposit in the Consulate [of commerce] 6,000 pesos, which at that
-period constituted all its funds. At the time of its reÎstablishment,
+period constituted all its funds. At the time of its re√´stablishment,
 the capital of the Society consisted of 34,224 pesos, two reals,
 one grano in ready cash; a debt owed by the convent of San Juan de
 Dios, of 7,525 pesos--the remainder of the sum of 15,890 pesos, four
@@ -6955,7 +6920,7 @@ he rebukes them severely for thus violating the law of nations,
 under the influence of "a general frenzy," and "led astray and
 infuriated by certain malicious persons." He characterizes their
 belief that the strangers had poisoned the waters as a foolish and
-absurd notion, which "the mountain Negritos or the Moros of JolÛ and
+absurd notion, which "the mountain Negritos or the Moros of Jol√≥ and
 Mindanao would be ashamed to entertain;" and reminds them that the
 strangers whom they have plundered and slain were not only friends
 and brethren, but the very persons on whom the prosperity of the
@@ -7024,14 +6989,14 @@ it was issued on Sundays. Its publication ceased before November 1 of
 that year. This information was furnished to Retana by Pardo de Tavera;
 he also supplied accurate data for La Filantropia (pp. 561-563), which
 began on September 1, 1821; it seems to have ceased publication in
-1822. El Ramillete PatriÛtico is known only by an allusion in one of
+1822. El Ramillete Patri√≥tico is known only by an allusion in one of
 the numbers of Filantropia, which speaks of the former as having been
 "silenced" (presumably by the authorities). Pedro Torres y Lanzas
 gives (p. 565) a description of Nos. 27-37 (March 16-May 25, 1822)
 of Filantropia.
 
 [16] Regarding this man and his works, see Retana's El precursor
-de la polÌtico redentorista (Madrid, 1894); it is specially devoted
+de la pol√≠tico redentorista (Madrid, 1894); it is specially devoted
 to Varela's Parnaso filipino (Sampaloc, 1814). Retana says of him:
 "It is unquestionable that his writings in prose and verse encouraged
 among the Indians the wrong interpretation which was given to the
@@ -7067,7 +7032,7 @@ an unknown ("for lack of information") number of those killed in the
 year 1827 and on March 28 of 1828, and more than 3,000 souls who have
 fled to other provinces. Some of the troops were Spaniards from Manila,
 but the main part of the force was composed of Indians from Bohol and
-Ceb˙, to the number of 5,970 and 54 respectively; 294 of the former
+Ceb√∫, to the number of 5,970 and 54 respectively; 294 of the former
 and 32 of the latter deserted the ranks, and 4,977 Boholans and 22
 Cebuans were at the end disbanded, as being on the sick list; and
 very few were either killed or wounded in the campaign. The reduced
@@ -7084,22 +7049,22 @@ and punishment. The intendant, in view of the difficulty in collecting
 [their] taxes, explained to the government the expediency of modifying
 the enactment; and this was done in 1834." (Note by Montero y Vidal.)
 
-[21] These funds were chiefly the obras pÌas which had been
+[21] These funds were chiefly the obras p√≠as which had been
 administered by the Jesuit order in Filipinas up to their expulsion
 from the islands; at that time, nearly half of these foundations
 were extinguished by the authorities, and such moneys as remained in
 them were covered into the royal treasury. Forty-five of the Jesuit
-obras pÌas were thus left, which were administered by the government
+obras p√≠as were thus left, which were administered by the government
 in the following manner: The capital was divided (as had long been
 the custom of all the orders in Filipinas in administering obras
-pÌas) into three parts; one of these was invested in the commerce
+p√≠as) into three parts; one of these was invested in the commerce
 of Acapulco, another in that of the Coromandel Coast and China,
 and the other third remained on deposit as a reserve to make good
 any losses in the amounts invested. Much light is thrown on the
 management of these funds by the Jesuits, in the official report made
 (June 23, 1797), in pursuit of a command from the Spanish government,
 by Angel de la Fuente, the chief of the Bureau of Secular Revenues
-[ContadurÌa de Temporalidades] at Manila; the original MS. of this
+[Contadur√≠a de Temporalidades] at Manila; the original MS. of this
 is in the possession of Edward K. Ayer, Chicago. Fuente examined the
 account-books which the Jesuits had kept of these funds, and found them
 full of confusion, discrepancies, and omissions; but after comparing
@@ -7107,7 +7072,7 @@ and verifying them so far as he could, he made a list of them, with
 statement of their origin, amount, and application. He found that in
 seventeen of these funds there was no evidence that the money had been
 applied as directed by the donors, and only partial indications of this
-in fifteen others. He reported that many of these obras pÌas had been
+in fifteen others. He reported that many of these obras p√≠as had been
 contributed for the advantage and benefit of the Jesuits themselves,
 and therefore, since that order had been suppressed, the funds might
 now justly be applied to any desirable pious purpose. To this end,
@@ -7117,7 +7082,7 @@ for specified purposes, and that the rest be covered into the royal
 treasury.
 
 [22] "In order to give aid to the widow of Torres, and pay the
-expenses of her voyage to EspaÒa, a subscription was raised which
+expenses of her voyage to Espa√±a, a subscription was raised which
 produced 12,000 pesos; but we note that the promoter of this married
 the widow, and they returned to the Peninsula together." (Note by
 Montero y Vidal.)
@@ -7130,9 +7095,9 @@ dollar"), of eight reals; and its half, quarter, eighth, sixteenth,
 and thirty-second parts were represented by smaller coins. The
 greater part of the supply of pillar dollars were made in Mexico;
 but this coinage ceased in 1822. In the Peninsula, the coins were the
-dollar--formerly of ten reals, but now of twenty reals vellÛn--the
+dollar--formerly of ten reals, but now of twenty reals vell√≥n--the
 half, the peseta or pistareen (which is one-fifth of the dollar,
-or four reals vellÛn), and the half and the quarter pistareen. After
+or four reals vell√≥n), and the half and the quarter pistareen. After
 the Peninsular revolution of 1821, pillar dollars were struck for a
 short time at Madrid, but these are easily distinguishable from the
 true pillar dollar. In 1810-16, silver coins were used in Brazil,
@@ -7140,12 +7105,12 @@ which were only the Spanish dollar, softened by annealing, and then
 restamped; the pillars may be distinguished underneath this surface,
 by close inspection. See Eckfeldt and DuBois, Manual of Gold and
 Silver Coins (Philadelphia, 1842), pp. 33, 77, 119, 122, See also
-chapter on Spanish coinage, especially that called "vellÛn," in
+chapter on Spanish coinage, especially that called "vell√≥n," in
 Lea's Inquisition in Spain (New York, 1906-07), i, pp. 560 et seq.;
 this latter, although debased, was the standard of value until 1871,
 when it was replaced by the decimal system.
 
-[24] "According to a memorial published by Don Francisco EnrÌquez
+[24] "According to a memorial published by Don Francisco Enr√≠quez
 on leaving his office, there were at that time in the funds [of his
 department] a surplus of 1,000,000 pesos, and in the storehouses over
 275,000 bales of tobacco, the value of which exceeded 4,000,000 hard
@@ -7162,14 +7127,14 @@ which were mortal." He died in 1839.
 [26] Royal decrees of 1835 and 1836 suppressed the Jesuit order
 throughout the Spanish empire; all the religious communities and
 colleges of men (excepting the colleges of missionaries for Asia,
-the clergy of the Escuelas PÌas and the hospital convents of St. John
+the clergy of the Escuelas P√≠as and the hospital convents of St. John
 of God), and the houses of the military orders; and all the beaterios
 whose inmates were not devoted to educational or hospital labors.
 
 [27] "In Filipinas the peseta is worth only 32 cuartos." (Vidal y
 Soler, Viajes por Jagor, p. 227; published in 1874.)
 
-[28] Soon after his return to Spain he published a book (C·diz, 1839)
+[28] Soon after his return to Spain he published a book (C√°diz, 1839)
 relating his experiences as governor of Filipinas.
 
 [29] Camba's wife died, three months after their arrival at Manila;
@@ -7182,7 +7147,7 @@ demanded from him pay for the powder used on that occasion. (Note by
 Montero y Vidal.)
 
 [30] In conjunction with the Audiencia, he commissioned a magistrate,
-Francisco OtÌn y Duazo, to draw up new "Ordinances of good government,"
+Francisco Ot√≠n y Duazo, to draw up new "Ordinances of good government,"
 in 1838. (Montero y Vidal, ii, p. 360.)
 
 [31] Montero y Vidal says (iii, p. 21): "On March 21, 1840, the
@@ -7194,8 +7159,8 @@ and enlarged by the author himself; and a third edition was issued
 volumes, a limited edition, with an atlas (in two volumes) containing
 478 colored plates; it also included a previously unpublished MS. on
 Philippine botany, written late in the sixteenth century, and an
-appendix prepared by the editors of Blanco (Fathers AndrÈs Naves and
-Celestino Fern·ndez-Villar) in which they endeavored to coˆrdinate
+appendix prepared by the editors of Blanco (Fathers Andr√©s Naves and
+Celestino Fern√°ndez-Villar) in which they endeavored to co√∂rdinate
 Blanco's species with those of other authors and to enumerate all the
 species of Philippine plants then known. See an account of Blanco's
 work and that of his later editors, with estimate of the scientific
@@ -7205,7 +7170,7 @@ the Bureau of Government Laboratories at Manila.
 
 [32] In Retana's Periodismo filipino (pp. 566, 567) Torres y Lanzas
 describes some copies of this periodical, dated October 5-November 9,
-1839, and January 23-February 6, 1841; he cites a letter by UrrÈjola
+1839, and January 23-February 6, 1841; he cites a letter by Urr√©jola
 to show that Precios corrientes was published weekly, beginning July 6,
 1839, by private enterprise.
 
@@ -7255,37 +7220,37 @@ to Europe!
 [37-A] Apparently referring to Antonio Pineda (VOL. L, p. 61); but he
 died only three years after leaving Spain. In the expedition to
 which he was attached, he was director of the department of natural
-sciences; he was accompanied by Louis NÈe, a Frenchman naturalized
+sciences; he was accompanied by Louis N√©e, a Frenchman naturalized
 in Spain. They visited Uruguay, Patagonia, Chile, Peru, and Nueva
-EspaÒa; and in Chile were joined by the Hungarian naturalist, Tadeo
-Haenke (who, reaching C·diz after their vessel sailed, was obliged
+Espa√±a; and in Chile were joined by the Hungarian naturalist, Tadeo
+Haenke (who, reaching C√°diz after their vessel sailed, was obliged
 to sail to South America to meet them). From Acapulco they went to
-Marianas and Filipinas; and journeyed (1791) through LuzÛn from
-SorsogÛn to Manila. Pineda labored diligently in LuzÛn, and made large
+Marianas and Filipinas; and journeyed (1791) through Luz√≥n from
+Sorsog√≥n to Manila. Pineda labored diligently in Luz√≥n, and made large
 collections; but died at Badoc, in Ilocos, in 1792; his brother Arcadio
 Pineda, who was first lieutenant of the ship, was charged to put in
 order the materials collected by Antonio, but many of these were lost
 on the return journey. Returning to South America, at Callao Haenke and
-NÈe parted company; the former again traveled in America, but in the
+N√©e parted company; the former again traveled in America, but in the
 vicissitudes of these journeys much of the material collected by him
 was lost or spoiled. The residue was classified and described, after
 his death, by the leading botanists of Europe, and this matter was
-published in a work entitled ReliquiÊ Haenkeane, seu descriptiones et
-icones plantarum quÊ in America meridionali et boreali in insulis
-Philippinis et Marianis collegit Thaddeus Haenke, PhilosophiÊ Doctor,
-Phytographus Regis HispaniÊ (PragÊ, 1825-35). NÈe went from ConcepciÛn,
+published in a work entitled Reliqui√¶ Haenkeane, seu descriptiones et
+icones plantarum qu√¶ in America meridionali et boreali in insulis
+Philippinis et Marianis collegit Thaddeus Haenke, Philosophi√¶ Doctor,
+Phytographus Regis Hispani√¶ (Prag√¶, 1825-35). N√©e went from Concepci√≥n,
 Chile, overland to Montevideo, and thence to Spain; and in September,
-1794, he reached C·diz, with a herbarium of 10,000 plants, of which
+1794, he reached C√°diz, with a herbarium of 10,000 plants, of which
 4,000 were new ones. These were preserved in the Botanical Gardens at
-Madrid, with more than 300 drawings. See RamÛn Jordana y Morera's
-Bosquejo geogr·fico È historico-natural del archipiÈlago filipino
-(Madrid, 1885), pp. 356-358, 361; and JosÈ Gogorza y Gonz·lez's Datos
+Madrid, with more than 300 drawings. See Ram√≥n Jordana y Morera's
+Bosquejo geogr√°fico √© historico-natural del archipi√©lago filipino
+(Madrid, 1885), pp. 356-358, 361; and Jos√© Gogorza y Gonz√°lez's Datos
 para la fauna filipina (Madrid, 1888), p. 2.--Eds.
 
-[38] The loftiest peak in Mindoro is Mount HalcÛn, said to be 8,800
-feet in height. The most prominent volcano in the archipelago is MayÛn,
+[38] The loftiest peak in Mindoro is Mount Halc√≥n, said to be 8,800
+feet in height. The most prominent volcano in the archipelago is May√≥n,
 7,916 feet high, in Albay, Luzon; in Negros is another volcano, called
-CanlaÛn, 8,192 feet high. In Panay the highest peak is Madia·s, 7,264
+Canla√≥n, 8,192 feet high. In Panay the highest peak is Madia√°s, 7,264
 feet; and in Mindanao is the loftiest peak in the entire archipelago,
 the almost extinct volcano of Apo, which rises to 10,312 feet. See
 the chapter on "Mountains and rivers," in Census of Philippines, i,
@@ -7558,7 +7523,7 @@ chief of the topographical bureau at Manila.--Eds.]
 [52] Ibid.
 
 [53] "Estos (Pueblos) aunque immediatos a las orillas de la mar,
-estÈn libres de las invasiones de los Moros; la espesura de las
+est√©n libres de las invasiones de los Moros; la espesura de las
 Manglares occulta y hace dificil la entrada, &c."
 
 "These (towns), though close to the sea shore, are free from the
@@ -7574,8 +7539,8 @@ when a parley was begun, which ended the affair without bloodshed. The
 origin of the quarrel was a dispute at cockfighting between his
 servants and the soldiers.
 
-[55] Such are, for example, Nuestra SeÒora de Antipolo, about 20 miles
-east of Manila, and the Santo NiÒo (Holy Child) of Zeb˚: to both of
+[55] Such are, for example, Nuestra Se√±ora de Antipolo, about 20 miles
+east of Manila, and the Santo Ni√±o (Holy Child) of Zeb√ª: to both of
 these it is reckoned almost indispensable to make a pilgrimage: the
 natives of Luzon to the first, which is about 25 miles from Manila;
 and those of all the Bisayas or Southern Islands to the other. From
@@ -7585,7 +7550,7 @@ pilgrims from the province of Ylocos! In all cases of peril and
 difficulty, a vow is made to one of these saints, which is seldom
 left unfulfilled. The crew of a small vessel of men offered 54 dollars
 for masses at the convent of St. Augustin (I think), on the day of the
-feast del Santo NiÒo.
+feast del Santo Ni√±o.
 
 [55-A] For detailed account of the shrine at Antipolo, its worship,
 miracles, etc., see Murillo Velarde's Hist. de Philipinas, fol.
@@ -7623,7 +7588,7 @@ that more respect for me. All the ancient prejudices of the schools
 seem to have abandoned us of Europe only to take refuge at Manila,
 where certainly they have long remained, for the ancient doctrine is
 there in too good hands to give place to sound ideas of physics. Don
-Feliciano MarquÈs often honestly confessed to me that in Spain they
+Feliciano Marqu√©s often honestly confessed to me that in Spain they
 were a hundred years behind France, in the sciences; and that at
 Manila they were a hundred years behind Spain. One can judge, by
 that, of the present state of physics at Manila, in the midst of
@@ -7672,7 +7637,7 @@ Manila, from whom strangers generally form their estimate of this
 people, is so mixed, that a genuine Indian (Malay) family is scarcely
 to be met with; they are a mixture of Indian, Chinese, Japanese,
 Mexican (from the troops), seamen of different nations, and Spaniards
-besides, "Toutes les Capitales se ressemblent, et Áe n'est pas d'eux
+besides, "Toutes les Capitales se ressemblent, et √ße n'est pas d'eux
 qu'il faut juger les moeurs d'un peuple quelconque." [60-A] --Rousseau.
 Let it never be forgotten, too, that while the Indians of Manila, on
 the 9th of October, 1820, were assassinating every foreigner within
@@ -7802,8 +7767,8 @@ from the dominant white class.--Eds.
 [63] "To be born in Spain was enough to secure one marked tokens of
 respect; but this advantage was not transmitted. The children who first
 saw the light in that other world no longer bear the name of chapetons,
-which honored their fathers; they become simply creÛles." (Raynal,
-Etablissemens et commerce des EuropÈens, ii, p. 290.)--Eds.
+which honored their fathers; they become simply cre√≥les." (Raynal,
+Etablissemens et commerce des Europ√©ens, ii, p. 290.)--Eds.
 
 [64] I am perhaps not quite correct here. [Mas states (Informe, ii,
 "Administration of Justice," p. 1), that the limit for civil suits
@@ -7824,8 +7789,8 @@ Murillo Velarde], and others. Le Gentil (who names his informants,
 men of the first respectability), La Peyrouse, &c. Many public papers
 of the government bear witness to these abuses.
 
-"El Alcalde de aqui SeÒor! (said an old Indian to the writer at
-Zeb˙), le quitar· los dientes de la boca a S. Md." "The AlcaldÈ here,
+"El Alcalde de aqui Se√±or! (said an old Indian to the writer at
+Zeb√∫), le quitar√° los dientes de la boca a S. Md." "The Alcald√© here,
 Sir!--He'll take the teeth out of your worship's mouth." This was
 not too strong an expression.
 
@@ -7848,7 +7813,7 @@ absolute masters over the minds of the Indians in these islands."--Eds.
 [70] Those who can see only inquisitors in Catholic bishops will be
 a little incredulous of one of them checking an attempt to convert
 a Protestant! This happened to the writer, who found himself one
-evening seated between an Indian clerigo and the bishop of Zeb˚,
+evening seated between an Indian clerigo and the bishop of Zeb√ª,
 an aged and most worthy prelate. The Indian father, to show his
 zeal for the faith, attacked me on the subject of religion with
 the usual arguments of ignorant friars, till I was on the point of
@@ -7858,7 +7823,7 @@ strangers who may visit us. I will send this gentleman some books,
 and I doubt not they will duly prepare his mind to see the errors of
 the Protestant church, and then we may hope for success with him!"
 
-[71] "Yo hÈ llorado de ansias de ver ‡ un Europeo!" "How often has the
+[71] "Yo h√© llorado de ansias de ver √† un Europeo!" "How often has the
 desire of seeing an European made me weep!" was the pathetic remark
 of a most worthy minister to the writer of these remarks.--This man
 had been 27 years on one small island!
@@ -7886,8 +7851,8 @@ religious one, there was little use for it amongst a people who will
 believe any thing and every thing. The Grand Inquisitor, during the
 last 25 years, is a man universally beloved!--the Padre Coro.
 
-[74] This is, according to Montero y Vidal (ArchipiÈlago filipino,
-p. 72), the name applied by LinnÊus to the Caryota onusta of Blanco,
+[74] This is, according to Montero y Vidal (Archipi√©lago filipino,
+p. 72), the name applied by Linn√¶us to the Caryota onusta of Blanco,
 generally called cabonegro by the Spaniards (see VOL. XVIII, p. 177);
 but the list of fiber plants in Official Handbook of Philippines
 applies to that tree (p. 332) the name Caryota urens L. The natives
@@ -7957,7 +7922,7 @@ them; this fact is related on respectable authority. The fish, though
 not delicate, is good, and forms a valuable article of food for the
 poor.
 
-[81-A] Montero y Vidal mentions this fish (ArchipiÈlago filipino,
+[81-A] Montero y Vidal mentions this fish (Archipi√©lago filipino,
 p. 107), as belonging to the genus Ophicephalus; it is "abundant
 in the rivers, lakes, and pools." See also Official Handbook of
 Philippines, pp. 151, 152.--Eds.
@@ -7968,7 +7933,7 @@ arisen from an idea that, as in the Isle of France, the martins might
 have become as great a nuisance as the locusts; but surely the
 introduction of some species of hawk would have obviated this.
 
-[82-A] Montero y Vidal says (ArchipiÈlago filipino, p. 113) that the
+[82-A] Montero y Vidal says (Archipi√©lago filipino, p. 113) that the
 family of Orthoptera, "leaf-eaters in their adult stage, are the most
 fearful scourge for agriculture," perhaps the worst of these plagues
 being the locust (Oedipoda manilensis; Spanish, langosta); "the
@@ -7977,7 +7942,7 @@ pays a bounty for a certain quantity of these destructive insects
 which the natives may present, but they preserve the insects and use
 them for food." He also states (p. 96) that a species of grackle
 (Gracula) was imported from China (in the Hist. de Filipinas, ii,
-p. 294, he mentions in the same connection martins [p·jaros martines])
+p. 294, he mentions in the same connection martins [p√°jaros martines])
 to exterminate this pest; but does not mention the time or the result
 of this experiment.--Eds.
 
@@ -7986,12 +7951,12 @@ of this experiment.--Eds.
 [84] This is the Viverra Musanga. [84-A] See Horsfield's Zoology of
 Java.
 
-[84-A] Montero y Vidal states (ArchipiÈlago filipino, pp. 86, 87) that
+[84-A] Montero y Vidal states (Archipi√©lago filipino, pp. 86, 87) that
 two species of carnivores, Paradoxurus philippinensis and P. musanga,
 are dreaded by the coffee-planters; these creatures "spend the day in
 holes dug in the ground, and go out at night to hunt their game." He
 mentions, besides these, two species of civets, both of the genus
-Viverra. Delgado says (p. 875) that he has never seen the mirÛ
+Viverra. Delgado says (p. 875) that he has never seen the mir√≥
 (Paradoxurus) except in the island of Leyte.--Eds.
 
 [85] Eight rials are a Spanish dollar.
@@ -8008,8 +7973,8 @@ Hence the Quinion contains 661511 16-144ths sq. ft. or 73501 2-9ths
 sq. yds., [86-A] which, taking the Bengal bigha at 14400 sq. ft.,
 gives about 46 bigahs, or 15 acres English.
 
-[86-A] The quiÒÛn = 2.79495 hectares = 6.89 acres. (Official Handbook
-of Philippines, p. 294; Jagor's Reisen, p. xv.) Jagor has balÌstas
+[86-A] The qui√±√≥n = 2.79495 hectares = 6.89 acres. (Official Handbook
+of Philippines, p. 294; Jagor's Reisen, p. xv.) Jagor has bal√≠stas
 for balitans, and Mallat has baletas.--Eds.
 
 Their dry measure is as follows:
@@ -8115,7 +8080,7 @@ pilones (which includes nearly all from Luzon), and the granulated,
 which is the kind that has been adopted in the Visayan islands and in
 some Luzon plantations." The pilon weighs a quintal; the granulated
 is put up in sacks (known as bayones, containing two and a half
-arrobas of sugar. (JosÈ R. de Luzuriaga, in Census of Philippines,
+arrobas of sugar. (Jos√© R. de Luzuriaga, in Census of Philippines,
 iv, pp. 26, 27).--Eds.
 
 [91] These last, by a royal Cedula (ordonnance), are only admitted
@@ -8156,7 +8121,7 @@ of vexations, he was saved from ruin!
 [93] Manufactured, I think, from the Urtica nevea of Linn. [93-A]
 
 [93-A] See our VOL. XXII, p. 279. In regard to cultivation and
-preparation of abac·, see Jagor's Reisen, pp. 245-256; Mallat,
+preparation of abac√°, see Jagor's Reisen, pp. 245-256; Mallat,
 Philippines, pp. 279, 280; Census of Phil., iv, pp. 14-24.--Eds.
 
 [94] Mimosa saponaria? [94-A]
@@ -8171,7 +8136,7 @@ Indians place dry pieces of its wood in their jars of cacao-beans to
 keep away worms. He states that it is also named Mimosa scandens by
 some writers.--Eds.
 
-[95] TÌndalo is the native name of the Afzelia (or Eperua)
+[95] T√≠ndalo is the native name of the Afzelia (or Eperua)
 rhomboidea, a leguminous tree highly valued for its durable and
 beautiful timber. Mangachapuy, Vatica (or Dipterocarpus) mangachapoi,
 furnishes a timber especially used for shipbuilding and other work
@@ -8183,7 +8148,7 @@ Blanco, Flora, pp. 260, 261, 281, 313.)--Eds.
 [97] Perhaps Boa hortulana? [97-A]
 
 [97-A] See our VOL. XII, p. 259; and XXIX, p. 301. Dahon-palay is
-Dryimus nasutus (Montero y Vidal, ArchipiÈlago filipino, pp. 103,
+Dryimus nasutus (Montero y Vidal, Archipi√©lago filipino, pp. 103,
 104). See also Official Handbook, p. 149; and Worcester's Philippine
 Islands, p. 514.--Eds.
 
@@ -8238,12 +8203,12 @@ translation of which is published by Prof. E. G. Bourne (New York,
 1904), with some additional annotations. See also "The colonial kingdom
 of Spain," in Helmolt's History of the World (New York, 1902), which
 is praised by Bourne as an excellent and scholarly study by Konrad
-H‰bler; but unfortunately the American edition of that work does not
+H√§bler; but unfortunately the American edition of that work does not
 name the author of the above section. Bourne also treats this subject
 in a chapter of his Spain in America (New York, 1904), pp. 220-242,
 and at pp. 355, 356, gives a helpful list of authorities thereon.--Eds.
 
-[105] "Ecclesiastical foundations and obras pÌas were, it may be
+[105] "Ecclesiastical foundations and obras p√≠as were, it may be
 said, innumerable. From the richest city to the smallest village,
 from one extreme of the Peninsula to the other, and even to the
 farthest boundaries which the monarchy reached in the period of its
@@ -8260,7 +8225,7 @@ in all, 83 foundations. Salamanca had more; Cuenca had 31, Avila 31,
 Almagro 17, and so with the other cities of Castilla." Among these
 pious gifts were "the exchanges of Barcelona, Sevilla, and Valencia,
 the colleges of Salamanca, that of Santa Cruz of Valladolid," and many
-cathedrals and convents. (Arias y Miranda, Examen crÌtico-histÛrico,
+cathedrals and convents. (Arias y Miranda, Examen cr√≠tico-hist√≥rico,
 p. 139.)--Eds.
 
 [106] At one of them (I believe that of Santa Clara), the sculls of the
@@ -8409,7 +8374,7 @@ physicians and surgeons make hardly any use of them. I do not think
 that in an entire year there is used in Pekin a half-livre of opium
 (which they call Yapien); its place is supplied by using the white
 poppy." (Father Parennin, in a letter dated September 20, 1740;
-Lettres Èdifiantes, ed. 1811, t. xxii, p. 274.)--Eds.
+Lettres √©difiantes, ed. 1811, t. xxii, p. 274.)--Eds.
 
 [120] One of the great drawbacks on the profits of the voyages from
 Europe since 1814 has been, that no light goods of value were to
@@ -8436,16 +8401,16 @@ to the Carolinas on the east.
 with guns; composed of gabions or bags filled with earth, or of earth
 heaped up.--Eds.
 
-[126] Le Gentil states (Voyage, ii, pp. 103, 104) that ArandÌa was
+[126] Le Gentil states (Voyage, ii, pp. 103, 104) that Arand√≠a was
 hated by the friars because he desired to demolish two churches outside
 the walls of Manila; these were so solid, and equipped with towers,
 and so near the walls, that they were a source of great danger to
 the city if they should fall into an enemy's hands. "I have been
-assured that the friars raised the cry of heresy against M. ArandÌa,
+assured that the friars raised the cry of heresy against M. Arand√≠a,
 and that they talked of nothing less than excommunicating him; but his
 death stopped all that. This zealous governor actually died in 1760,
 before he had effected his project; but his death was not regarded as
-natural." When the English appeared before Manila, ArandÌa's loss was
+natural." When the English appeared before Manila, Arand√≠a's loss was
 regretted, when it was too late. The English demolished the aforesaid
 churches and their towers, for their own safety.--Eds.
 
@@ -8455,8 +8420,8 @@ churches and their towers, for their own safety.--Eds.
 IV, in bronze, a true work of art, cast in Manila. It was erected in
 recognition of his having ordered the conveyance [to the islands]
 of vaccine virus, transmitted from arm to arm, for which purpose
-exclusively he arranged for the departure of a ship from MÈjico, which
-reached Manila on April 15, 1805." (Montero y Vidal, ArchipiÈlago
+exclusively he arranged for the departure of a ship from M√©jico, which
+reached Manila on April 15, 1805." (Montero y Vidal, Archipi√©lago
 filipino, p. 301.) The same writer says (Hist. de Filipinas, ii,
 p. 388): "The benefits produced by vaccination among the natives,
 always so harassed by that pest [of smallpox], were evident," and
@@ -8470,7 +8435,7 @@ statue stands, is now called Plaza McKinley.--Eds.
 which caused such ravages in Manila in 1820, to the poisoning of their
 wells by foreigners. A French physician, Dr. Charles L. Benoit, who
 arrived at Manila at that time, and spent four years there, states,
-in his ObservaciÛns sobre el cÛlera morbo espasmodico (Madrid, 1832)
+in his Observaci√≥ns sobre el c√≥lera morbo espasmodico (Madrid, 1832)
 that in this belief the Indians, usually so humble and religious,
 then committed innumerable crimes. See account of their massacre of
 foreigners, pp. 39-45, ante.--Eds.
@@ -8523,7 +8488,7 @@ some knowing ones)--common decoy for women of loose characters--the
 deceiver of many, and remedy of few."--Novela del Zeloso Estnemeno
 [i.e., "The jealous Estremaduran"].
 
-[139] Andaluces: natives of Andalusia province. MontaÒeses:
+[139] Andaluces: natives of Andalusia province. Monta√±eses:
 appellation of the dwellers in the hill-country of Santander province,
 Spain. Serviles (literally "those who are servile or fawning"): a
 political epithet applied to the Monarchists or Absolutists. Liberales:
@@ -8580,7 +8545,7 @@ from rice."
 [148] In 1853 a pamphlet was published at Madrid, written by Sinibaldo
 de Mas, entitled, Articulo sobre las rentas de Filipinas y los medios
 de aumentarlas," written for the Boletin Oficial of the Treasury
-Department." (Vindel, Cat·logo biblioteca filipina, no. 1558.)
+Department." (Vindel, Cat√°logo biblioteca filipina, no. 1558.)
 
 [149] "Only since 1843 have the Chinese shops been opened on the same
 terms as those of other foreigners. But there is no doubt that the
@@ -8630,13 +8595,13 @@ having observed that the people were dissatisfied with so frail
 an article, ordered that the copper utensils throughout the entire
 empire should be given up to the mints. As this ill-judged expedient
 did not furnish resources adequate to the public needs, the government
-caused about four hundred temples of FoÈ to be demolished, the idols
+caused about four hundred temples of Fo√© to be demolished, the idols
 in which were melted down. Finally the court paid the magistrates
 and the army partly in copper and partly in paper; but the people
 rebelled against so dangerous innovation, and it became necessary
 to give it up. Since that time, which was three centuries ago, the
-coinage of copper is the only legal one." (Raynal, …tablissemens et
-commerce des EuropÈens, i, pp. 641, 642).
+coinage of copper is the only legal one." (Raynal, √âtablissemens et
+commerce des Europ√©ens, i, pp. 641, 642).
 
 [151] Spanish, temporalidades: referring to the bureau in charge of
 the property formerly belonging to the Jesuits.
@@ -8671,14 +8636,14 @@ colleague, as his absence before that time would leave the Philippines
 without representation. The request was renewed on the arrival of
 Reyes (December 6, 1811), and on the latter's assumption of his seat
 (December 9), Perez de Tagle was allowed to leave. On September
-19, 1813, a discourse was pronounced at Manila by JosÈ de Vergara,
+19, 1813, a discourse was pronounced at Manila by Jos√© de Vergara,
 "deputy-elect for the province of Manila to the general Cortes,"
 and published in that year at Sampaloc. The election of deputies in
 that year was regulated by a junta composed of Governor Gardoqui,
-Archbishop Juan de Z˙Òiga, Manuel DÌaz CondÈ, and three others;
+Archbishop Juan de Z√∫√±iga, Manuel D√≠az Cond√©, and three others;
 one of their decisions exempted the very poor in the community from
 contributing to the fund raised for paying the traveling and other
-expenses of the deputies to the Cortes. (Vindel, Cat·logo biblioteca
+expenses of the deputies to the Cortes. (Vindel, Cat√°logo biblioteca
 filipina, nos. 1874, 1875.)
 
 [156] Such were the decree of October 5, 1810, confirming the essential
@@ -8687,7 +8652,7 @@ the quicksilver monopoly, January 26, 1811; the provisional creation of
 a Consejo de Estado to consist of twenty members (six from Ultramar),
 on January 21, 1812, although the constitution (adopted March 18, 1812)
 called for one with forty members (twelve from Ultramar): the creation
-of the SecretarÌa del Despacho de la GobernaciÛn de Ultramar (April
+of the Secretar√≠a del Despacho de la Gobernaci√≥n de Ultramar (April
 2, 1812), and the establishment of the Tribunal Supremo de Justicia,
 and the suppression of the Consejos de Castilla, Indias, and Hacienda
 (all of them provided for in the constitution); and the suppression
@@ -8695,9 +8660,9 @@ of the Inquisition (February 22, 1813). The law of November 9, 1813,
 abolishing personal services for Indians and regulating public works,
 seems to have been intended only for America.
 
-[157] February 20, 1812, was the last meeting on the island of LeÛn,
+[157] February 20, 1812, was the last meeting on the island of Le√≥n,
 the Cortes assembling on the twenty-fourth at the church of San Felipe
-Neri, at C·diz.
+Neri, at C√°diz.
 
 [158] The method of election for the Cortes of 1813 (decree of May
 23, 1812) provided for a preliminary election board for each colonial
@@ -8733,11 +8698,11 @@ commerce.
 [162] This decree (which is given by Montero y Vidal, Historia general,
 li, pp. 412, 413) states that the inhabitants of the Philippines may
 trade in Chinese and other Asiatic goods in private Spanish bottoms
-with the ports of Acapulco and San Blas in Nueva EspaÒa, under the
+with the ports of Acapulco and San Blas in Nueva Espa√±a, under the
 old terms of 500,000 pesos for the outgoing, and 1,000,000 pesos
 for the return voyage. If the port of Acapulco be closed, they may
 trade at Sonsonate. For four years the lower rates of duties granted
-by C·rlos IV by decree of October, 1806, are continued. Boletas,
+by C√°rlos IV by decree of October, 1806, are continued. Boletas,
 or tickets granting lading space, are to be furnished no longer.
 
 [163] In accordance with a royal order of June 17, commanding the
@@ -8762,10 +8727,10 @@ paying ten per cent duty for such excess; and free trade for Philippine
 products at any port of the monarchy in Spanish bottoms for ten years.
 
 [164] On the seventh he took the oath to observe the Constitution
-of 1812; and on the tenth, by a decree ordered the reÎstablishment
-of the SecretarÌa del DespachÛ de la GobernaciÛn[, the first acts
+of 1812; and on the tenth, by a decree ordered the re√´stablishment
+of the Secretar√≠a del Despach√≥ de la Gobernaci√≥n[, the first acts
 of which were the promulgation of the Constitution of 1812, and
-the reÎstablishment of all the organisms created by the Cortes of
+the re√´stablishment of all the organisms created by the Cortes of
 1810-1813.
 
 [165] Apparently appointed by the Secretary of Ultramar. Their
@@ -8783,7 +8748,7 @@ rendered necessary in the provinces of Ultramar.
 company for the importation of cotton goods as unconstitutional and
 contrary to the prosperity of national manufactures. At the meeting
 of August 18, it developed that the company had transferred its
-monopoly to a foreign merchant of C·diz. The company was allowed to
+monopoly to a foreign merchant of C√°diz. The company was allowed to
 present its argument, but the report of the committees on Commerce
 and Hacienda was adopted. Later the company presented a petition
 requesting the liquidation of the government's indebtedness to it,
@@ -8862,7 +8827,7 @@ on Credentials handed in February 11, 1822, to the effect that
 government employes did not cease, to be such until their resignations
 were accepted by the government. Posada did not present his credentials
 at the meeting of February 15, declaring that they had been robbed
-with his baggage en route from C·diz to Madrid. He did present them,
+with his baggage en route from C√°diz to Madrid. He did present them,
 however, at the next meeting of February 20. At the third and fourth
 preliminary meetings (February 22 and 24) the matter was debated,
 and he was excluded on the grounds of being still a government employe.
@@ -8873,30 +8838,30 @@ names eight of them. He may have confused the names of electors with
 those of representatives. The four elected (of whom only three are
 known) were perhaps elected for the districts of the archiepiscopal
 see and the three suffragan sees of the Philippines; although Montero
-y Vidal says that both S·enz de Vizmanos and Posada were elected from
-Nueva C·ceres.
+y Vidal says that both S√°enz de Vizmanos and Posada were elected from
+Nueva C√°ceres.
 
 [176] Although a provincial deputation had been organized in Manila
 in 1822, almost its only act was to petition (April 12, 1823) for
 more missionaries.
 
 [177] Fernando's infant daughter, Isabel II, ascended the throne
-under the regency of her mother MarÌa Cristina. Through the efforts
+under the regency of her mother Mar√≠a Cristina. Through the efforts
 of the liberals, six important decrees were passed March 24, 1834:
 suppression of the Consejo de Estado, during the minority of the queen;
 suppression of the Consejos de Castilla and de Indias, in whose place
-was established a Tribunal Superior de EspaÒa È Indias; suppression of
+was established a Tribunal Superior de Espa√±a √© Indias; suppression of
 the Consejo Supremo de Guerra, and in its place the establishment of
-the Tribunal Supremo de Guerra y Marina y de ExtranjerÌa; suppression
+the Tribunal Supremo de Guerra y Marina y de Extranjer√≠a; suppression
 of the Consejo Supremo de Hacienda, replacing it by a Tribunal Supremo
 de Hacienda; an order to the Secretary of the Despacho de Gracia y
 Justicia to propose the new organization of the Consejo Real de las
-Ordenes; and the institution of a Consejo Real de EspaÒa È Indias to
+Ordenes; and the institution of a Consejo Real de Espa√±a √© Indias to
 have general supervision of American and Philippine matters.
 
 [178] The first news of reform and the fact that the new Cortes were
 to be summoned was received unofficially at Manila by a United States
-ship sailing from C·diz in June, 1834, and reaching Manila toward
+ship sailing from C√°diz in June, 1834, and reaching Manila toward
 the end of the same year.
 
 [179] No provision was made in the third Cortes for substitute
@@ -8907,13 +8872,13 @@ period by the officials at Madrid with regard to the Philippines. This
 accounts for the islands having no representation for some of the
 sessions of the Cortes.
 
-[180] AndrÈs GarcÌa Camba resided in Manila during 1825-35, and became
+[180] Andr√©s Garc√≠a Camba resided in Manila during 1825-35, and became
 so popular that he was elected a deputy to the Spanish Cortes; he was
 afterward (August, 1837-December, 1838) governor of the Philippines,
-and wrote a book (published at C·diz, 1839) regarding his experiences
+and wrote a book (published at C√°diz, 1839) regarding his experiences
 while holding that office. Himself liberally inclined, he was
 constantly opposed by reactionary influences. Although his name does
-not appear in the pamphlet Filipinas y su representaciÛn en Cortes,
+not appear in the pamphlet Filipinas y su representaci√≥n en Cortes,
 he is generally considered as its author; and he alludes to it in the
 memoir above mentioned. (Vindel, Cat. bib. filip., nos. 1881, 1886.)
 
@@ -8921,7 +8886,7 @@ memoir above mentioned. (Vindel, Cat. bib. filip., nos. 1881, 1886.)
 that he was a Filipino lawyer. The board of electors was mainly
 composed of peninsulars.
 
-[182] Camba proposed (Filipinas y su representaciÛn en Cortes,
+[182] Camba proposed (Filipinas y su representaci√≥n en Cortes,
 1836) a special mode of election to Cortes for the Philippines,
 which was to be by the Manila Ayuntamiento, as that was the only
 political organization in the islands worth mentioning, and was in
@@ -8933,32 +8898,32 @@ asking in one for a moderation of the excessive duties on the
 introduction of Spanish brandy into the Philippines, and in the other
 the sending of few pensioners and subaltern employes to the islands,
 as this was a prejudice to the native Philippine Spaniards. Lecaros
-presented a plan to Mendiz·bal, the provisional president of the
+presented a plan to Mendiz√°bal, the provisional president of the
 Consejo de Ministros, for the suppression of the monopoly on tobacco
-in the Philippines, but Mendiz·bal took measures to make the monopoly
+in the Philippines, but Mendiz√°bal took measures to make the monopoly
 more remunerative to the state. See Montero y Vidal, Historia general,
 ii. pp. 554, 555, note.
 
 [183] He wrote Memoria sobre las Islas Filipinas (Valencia, 1842).
 
 [184] July 31, 1837, the new commercial treaty made September 22,
-1836, between the governor of the Philippines and the sultan of JolÛ
+1836, between the governor of the Philippines and the sultan of Jol√≥
 was referred to the committees on State and Commerce, was reported on
 favorably on October 4, and was accordingly approved on the twelfth
 of October. This treaty stipulated that every three-masted schooner
-porting at JolÛ with Chinese passengers from Manila was to pay 2,000
+porting at Jol√≥ with Chinese passengers from Manila was to pay 2,000
 pesos fuertes, and lesser boats in proportion to their size. As the
-most important cargo ever sent to JolÛ from Manila never exceeded
+most important cargo ever sent to Jol√≥ from Manila never exceeded
 2,500 pesos in value, it is hard to see the value of this treaty so
 greatly lauded in Madrid. No Joloan vessels went to Manila. In this
 matter the officials showed a woful ignorance of the Philippines,
-the minister of the navy stating that all vessels stopped at JolÛ on
+the minister of the navy stating that all vessels stopped at Jol√≥ on
 their way to the Philippines. This treaty, as well as the one made
 by the governor of Zamboanga with the chief of Maluso near Basilan,
 only made the Moros bolder in their piracy. See Montero y Vidal,
 Historia general, ii, pp. 557-560.
 
-[185] On May 25, 1869, an amendment was presented by Juli·n PellÛn
+[185] On May 25, 1869, an amendment was presented by Juli√°n Pell√≥n
 y Rodriguez in the Spanish Cortes demanding that parliamentary
 representation be granted to Filipinas. Among the signers to this
 amendment were Victor Balaguer and Francisco Javier Moya. (Vindel,
@@ -8991,366 +8956,4 @@ and iv, p. 107.
 End of the Project Gutenberg EBook of The Philippine Islands, 1493-1898,
 Volume 51, 1801-1840, by Various
 
-*** END OF THIS PROJECT GUTENBERG EBOOK PHILIPPINE ISLANDS, VOLUME 51 ***
-
-***** This file should be named 57304-8.txt or 57304-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/7/3/0/57304/
-
-Produced by Jeroen Hellingman and the Online Distributed
-Proofreading Team at http://www.pgdp.net/ for Project
-Gutenberg.
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 57304 ***
